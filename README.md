@@ -1,156 +1,159 @@
 <div align="center">
 
-# Hi there 👋 I'm Luis Enrique Rivera Delgado
+# Hola 👋 Soy Luis Enrique Rivera Delgado
 
-### Software Developer | Backend | Java | Python | JavaScript
+### Desarrollador de software | Servidor | Java | Pitón | javascript
 
-Building software solutions that solve real-world problems through clean architecture, continuous learning and practical development.
+Construir soluciones de software que resuelvan problemas del mundo real a través de una arquitectura limpia, aprendizaje continuo y desarrollo práctico.
 
-[![GitHub followers](https://img.shields.io/github/followers/Luics415?style=social)](https://github.com/Luics415)
+[![Seguidores de GitHub](https://img.shields.
+io/github/followers/Luics415?style=social)](https://github.com/Luics415)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Acerca de mí
 
-I'm a **Software Developer** with professional experience building and maintaining web applications.
+Soy **Desarrollador de software** con experiencia profesional en la creación y mantenimiento de aplicaciones web.
 
-Currently, I develop web systems for **digital government services**, while continuously expanding my knowledge in backend development, software architecture and computer vision.
+Actualmente desarrollo sistemas web para **servicios de gobierno digital**, mientras amplío continuamente mis conocimientos en desarrollo backend,
+Arquitectura de software y visión por computadora.
 
-I enjoy understanding how systems work, designing scalable solutions and transforming ideas into functional software.
-
----
-
-# 🚀 What I Can Do
-
-✔ Develop software from scratch based on business requirements.
-
-✔ Maintain and improve existing applications.
-
-✔ Design and implement object-oriented solutions.
-
-✔ Develop web applications using JavaScript and MySQL.
-
-✔ Build desktop and Android applications.
-
-✔ Design relational databases.
-
-✔ Develop computer vision applications using Python and MediaPipe.
-
-✔ Analyze problems and translate them into software solutions.
-
-✔ Learn and adapt quickly to new technologies and development environments.
+Disfruto entendiendo cómo funcionan los sistemas, diseñando soluciones escalables y transformando ideas en software funcional.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Qué puedo hacer
 
-## Languages
+✔ Desarrollar software desde cero en función de los requisitos del negocio.
 
-- Java
-- Python
+✔ Mantener y mejorar las aplicaciones existentes.
+
+✔ Diseñar e implementar soluciones orientadas a objetos
+.
+
+✔ Desarrollar aplicaciones web utilizando JavaScript y MySQL.
+
+✔ Cree aplicaciones de escritorio y de Android.
+
+✔ Diseñar bases de datos relacionales.
+
+✔ Desarrollar aplicaciones de visión por computadora usando Python y MediaPipe.
+
+✔ Analizar problemas y traducirlos en soluciones de software.
+
+✔ Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
+
+---
+# 💻 Pila de tecnología
+
+## Idiomas
+
+-Java
+- Pitón
 - JavaScript
-- SQL
+-SQL
 - PowerShell
 
-## Databases
+## Bases de datos
 
 - MySQL
 
-## Development
+## Desarrollo
 
-- Object-Oriented Programming (OOP)
-- Backend Development
-- Web Development
-- Android Development
+- Programación Orientada a Objetos (POO)
+- Desarrollo de back-end
+- Desarrollo Web
+- Desarrollo de Android
 
-## Tools
+## Herramientas
 
-- Git
-- GitHub
-- Android Studio
-- MediaPipe
-- RPG Maker MV
-
----
-
-# ⭐ Featured Projects
-
-## 🖐 Bio Gesture Control Pro
-
-A computer vision project developed using **Python** and **MediaPipe** capable of recognizing hand gestures in real time to interact with desktop applications.
-
-**Highlights**
-
-- Real-time image processing
-- Hand tracking
-- Gesture recognition
-- Modular architecture
-- Human-computer interaction
+-Git
+-GitHub
+- Estudio Android
+- Tubo de medios
+- Creador de RPG MV
 
 ---
 
-## 🎮 Eternal Mazes RPG
+# ⭐ Proyectos destacados
 
-A complete RPG game developed with **JavaScript** and **RPG Maker MV**.
+## 🖐 Control biológico de gestos Pro
+Un proyecto de visión por computadora desarrollado utilizando **Python** y **MediaPipe** capaz de reconocer gestos de las manos en tiempo real para interactuar con aplicaciones de escritorio.
 
-The project includes custom gameplay mechanics, event systems, game logic and modular scripting.
+**Aspectos destacados**
 
-**Highlights**
-
-- Game mechanics
-- JavaScript scripting
-- Event-driven architecture
-- RPG systems
-- Modular design
-
----
-
-## 🧩 Rubik Cube
-
-Object-Oriented Programming project focused on representing and manipulating a Rubik's Cube.
-
-Designed to understand algorithms, object modeling and state transformations.
-
-**Highlights**
-
-- OOP Design
-- Data Structures
-- Algorithmic Thinking
-- State Management
+- Procesamiento de imágenes en tiempo real
+- Seguimiento manual
+- Reconocimiento de gestos
+- Arquitectura modular
+- Interacción persona-computadora
 
 ---
 
-# 📈 Current Focus
+## 🎮 RPG de Laberintos Eternos
+Un completo juego de rol desarrollado con **JavaScript** y **RPG Maker MV**.
 
-I'm currently improving my knowledge in:
+El proyecto incluye mecánicas de juego personalizadas, sistemas de eventos, lógica de juego y secuencias de comandos modulares.
 
-- Backend Development
-- Java Ecosystem
-- Spring Boot
-- Software Architecture
-- REST APIs
-- Design Patterns
-- Clean Code
+**Aspectos destacados**
 
----
-
-# 🎯 Career Objective
-
-I'm looking for opportunities where I can contribute as a Software Developer while continuing to grow in Backend Development and Software Engineering.
-
-I enjoy working on projects that involve solving complex problems, learning new technologies and building software with real impact.
+- Mecánica de juego
+- secuencias de comandos JavaScript
+- Arquitectura basada en eventos
+- sistemas de rol
+- Diseño modular
 
 ---
 
-# 📫 Contact
+## 🧩 Cubo de Rubik
+
+Objeto-
+Proyecto de Programación Orientada enfocado a representar y manipular un Cubo de Rubik.
+
+Diseñado para comprender algoritmos, modelado de objetos y transformaciones de estado.
+
+**Aspectos destacados**
+
+- Diseño de programación orientada a objetos
+- Estructuras de datos
+- Pensamiento algorítmico
+- Gestión del Estado
+
+---
+
+# 📈 Enfoque actual
+
+Actualmente estoy mejorando mis conocimientos en:
+
+- Desarrollo de back-end
+-
+Ecosistema Java
+- Bota de primavera
+- Arquitectura de software
+- API REST
+- Patrones de diseño
+- Código limpio
+
+---
+
+# 🎯 Objetivo profesional
+
+Estoy buscando oportunidades donde pueda contribuir como Desarrollador de Software mientras sigo creciendo en Desarrollo Backend e Ingeniería de Software.
+
+Disfruto trabajando en proyectos que involucran la resolución de problemas complejos,
+aprender nuevas tecnologías y crear software con impacto real.
+
+---
+
+# 📫 Contacto
 
 📧 **alerivera8777@gmail.com**
 
-💼 **Software Developer**
+💼 **Desarrollador de software**
 
-🌎 **Mexico**
+🌎 **México**
 
 ---
 
