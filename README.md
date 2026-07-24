@@ -2,12 +2,11 @@
 
 # Hola 👋 Soy Luis Enrique Rivera Delgado
 
-### Desarrollador de software | Servidor | Java | Pitón | javascript
+### Software Developer | Backend | Java | Python | JavaScript
 
 Construir soluciones de software que resuelvan problemas del mundo real a través de una arquitectura limpia, aprendizaje continuo y desarrollo práctico.
 
-[![Seguidores de GitHub](https://img.shields.
-io/github/followers/Luics415?style=social)](https://github.com/Luics415)
+[![GitHub followers](https://img.shields.io/github/followers/Luics415?style=social)](https://github.com/Luics415)
 
 </div>
 
@@ -26,24 +25,24 @@ Disfruto entendiendo cómo funcionan los sistemas, diseñando soluciones escalab
 
 # 🚀 Qué puedo hacer
 
-✔ Desarrollar software desde cero en función de los requisitos del negocio.
+Desarrollar software desde cero en función de los requisitos del negocio.
 
-✔ Mantener y mejorar las aplicaciones existentes.
+Mantener y mejorar las aplicaciones existentes.
 
-✔ Diseñar e implementar soluciones orientadas a objetos
+Diseñar e implementar soluciones orientadas a objetos
 .
 
-✔ Desarrollar aplicaciones web utilizando JavaScript y MySQL.
+Desarrollar aplicaciones web utilizando JavaScript y MySQL.
 
-✔ Cree aplicaciones de escritorio y de Android.
+Cree aplicaciones de escritorio y de Android.
 
-✔ Diseñar bases de datos relacionales.
+Diseñar bases de datos relacionales.
 
-✔ Desarrollar aplicaciones de visión por computadora usando Python y MediaPipe.
+Desarrollar aplicaciones de visión por computadora usando Python y MediaPipe.
 
-✔ Analizar problemas y traducirlos en soluciones de software.
+Analizar problemas y traducirlos en soluciones de software.
 
-✔ Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
+Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
 
 ---
 # 💻 Pila de tecnología
@@ -51,9 +50,9 @@ Disfruto entendiendo cómo funcionan los sistemas, diseñando soluciones escalab
 ## Idiomas
 
 -Java
-- Pitón
+- Python
 - JavaScript
--SQL
+- SQL
 - PowerShell
 
 ## Bases de datos
@@ -109,8 +108,7 @@ El proyecto incluye mecánicas de juego personalizadas, sistemas de eventos, ló
 
 ## 🧩 Cubo de Rubik
 
-Objeto-
-Proyecto de Programación Orientada enfocado a representar y manipular un Cubo de Rubik.
+Objeto - Proyecto de Programación Orientada enfocado a representar y manipular un Cubo de Rubik.
 
 Diseñado para comprender algoritmos, modelado de objetos y transformaciones de estado.
 
@@ -128,8 +126,7 @@ Diseñado para comprender algoritmos, modelado de objetos y transformaciones de 
 Actualmente estoy mejorando mis conocimientos en:
 
 - Desarrollo de back-end
--
-Ecosistema Java
+- Ecosistema Java
 - Bota de primavera
 - Arquitectura de software
 - API REST
