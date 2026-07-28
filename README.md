@@ -29,8 +29,7 @@ Desarrollar software desde cero en función de los requisitos del negocio.
 
 Mantener y mejorar las aplicaciones existentes.
 
-Diseñar e implementar soluciones orientadas a objetos
-.
+Diseñar e implementar soluciones orientadas a objetos.
 
 Desarrollar aplicaciones web utilizando JavaScript y MySQL.
 
@@ -106,18 +105,20 @@ El proyecto incluye mecánicas de juego personalizadas, sistemas de eventos, ló
 
 ---
 
-## 🧩 Cubo de Rubik
+## 🧩 Mascotas animadas y persistentes en la barra lateral del Navegador Web Opera GX
 
-Objeto - Proyecto de Programación Orientada enfocado a representar y manipular un Cubo de Rubik.
+Objeto - Proyecto de Programación Orientada al dominio de mascotas virtuales y su interacción en la barra lateral de Navegador Web Opera GX.
 
-Diseñado para comprender algoritmos, modelado de objetos y transformaciones de estado.
+Diseñado para comprender algoritmos, modelado de objetos y Gestión del estado persistente.
 
 **Aspectos destacados**
 
 - Diseño de programación orientada a objetos
 - Estructuras de datos
-- Pensamiento algorítmico
-- Gestión del Estado
+- Acciones/animaciones de la mascota (comer, jugar, dormir)
+- Planificadores de tareas que optimizan la satisfacción de necesidades
+- Snapshot del estado global del ecosistema (varias mascotas + escena)
+- Física y posicionamiento de juguetes/mascotas en la escena
 
 ---
 
@@ -127,11 +128,11 @@ Actualmente estoy mejorando mis conocimientos en:
 
 - Desarrollo de back-end
 - Ecosistema Java
-- Bota de primavera
 - Arquitectura de software
 - API REST
 - Patrones de diseño
 - Código limpio
+- Documentación 
 
 ---
 
