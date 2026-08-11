@@ -1,6 +1,12 @@
 <div align="center">
 
-# Hola 👋 Soy Luis Enrique Rivera Delgado
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=luics415&theme=neon" alt="luics415 hero section" />
+  </picture>
+</p>
+
 
 ### Software Developer | Backend | Java | Python | JavaScript
 
@@ -9,6 +15,13 @@ Construir soluciones de software que resuelvan problemas del mundo real a travé
 [![GitHub followers](https://img.shields.io/github/followers/Luics415?style=social)](https://github.com/Luics415)
 
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/chess?username=luics415&theme=neon" alt="luics415 chess replay section" />
+  </picture>
+</p>
 
 ---
 
@@ -20,6 +33,7 @@ Actualmente desarrollo sistemas web para **servicios de gobierno digital**, mien
 Arquitectura de software y visión por computadora.
 
 Disfruto entendiendo cómo funcionan los sistemas, diseñando soluciones escalables y transformando ideas en software funcional.
+
 
 ---
 
@@ -42,6 +56,15 @@ Desarrollar aplicaciones de visión por computadora usando Python y MediaPipe.
 Analizar problemas y traducirlos en soluciones de software.
 
 Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
+
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon" alt="Luics415 stack section" />
+  </picture>
+</p>
 
 ---
 # 💻 Pila de tecnología
@@ -77,48 +100,12 @@ Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
 
 # ⭐ Proyectos destacados
 
-## 🖐 Control biológico de gestos Pro
-Un proyecto de visión por computadora desarrollado utilizando **Python** y **MediaPipe** capaz de reconocer gestos de las manos en tiempo real para interactuar con aplicaciones de escritorio.
-
-**Aspectos destacados**
-
-- Procesamiento de imágenes en tiempo real
-- Seguimiento manual
-- Reconocimiento de gestos
-- Arquitectura modular
-- Interacción persona-computadora
-
----
-
-## 🎮 RPG de Laberintos Eternos
-Un completo juego de rol desarrollado con **JavaScript** y **RPG Maker MV**.
-
-El proyecto incluye mecánicas de juego personalizadas, sistemas de eventos, lógica de juego y secuencias de comandos modulares.
-
-**Aspectos destacados**
-
-- Mecánica de juego
-- secuencias de comandos JavaScript
-- Arquitectura basada en eventos
-- sistemas de rol
-- Diseño modular
-
----
-
-## 🧩 Mascotas animadas y persistentes en la barra lateral del Navegador Web Opera GX
-
-Objeto - Proyecto de Programación Orientada al dominio de mascotas virtuales y su interacción en la barra lateral de Navegador Web Opera GX.
-
-Diseñado para comprender algoritmos, modelado de objetos y Gestión del estado persistente.
-
-**Aspectos destacados**
-
-- Diseño de programación orientada a objetos
-- Estructuras de datos
-- Acciones/animaciones de la mascota (comer, jugar, dormir)
-- Planificadores de tareas que optimizan la satisfacción de necesidades
-- Snapshot del estado global del ecosistema (varias mascotas + escena)
-- Física y posicionamiento de juguetes/mascotas en la escena
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Luics415&theme=neon" alt="Luics415 projects section" />
+  </picture>
+</p>
 
 ---
 
@@ -147,6 +134,15 @@ aprender nuevas tecnologías y crear software con impacto real.
 
 # 📫 Contacto
 
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Luics415&theme=neon" alt="Luics415 social section" />
+  </picture>
+</p>
+
 📧 **alerivera8777@gmail.com**
 
 💼 **Desarrollador de software**
@@ -156,3 +152,5 @@ aprender nuevas tecnologías y crear software con impacto real.
 ---
 
 > *"Software is more than writing code; it's about understanding problems and building reliable solutions."*
+
+
