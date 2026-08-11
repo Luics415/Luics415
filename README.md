@@ -67,11 +67,12 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
 </p>
 
 ---
+
 # 💻 Pila de tecnología
 
 ## Idiomas
 
--Java
+- Java
 - Python
 - JavaScript
 - SQL
@@ -90,8 +91,8 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
 
 ## Herramientas
 
--Git
--GitHub
+- Git
+- GitHub
 - Estudio Android
 - Tubo de medios
 - Creador de RPG MV
@@ -134,8 +135,6 @@ aprender nuevas tecnologías y crear software con impacto real.
 
 # 📫 Contacto
 
-## Connect
-Contact and social links will appear here.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Luics415&theme=neon&mode=light" />
