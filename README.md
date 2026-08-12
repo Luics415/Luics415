@@ -51,17 +51,6 @@ Tengo experiencia en la creación y el mantenimiento de aplicaciones web, incluy
 - Desarrollo de soluciones de visión por computadora con Python y MediaPipe.
 - Análisis de problemas y adaptación rápida a nuevas tecnologías.
 
----
-
-## 🧰 Tecnologías y herramientas
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon" alt="Luics415 stack section" />
-  </picture>
-</p>
-
 | Área | Tecnologías |
 | --- | --- |
 | **Lenguajes** | Java, Python, JavaScript, SQL, PowerShell |
@@ -69,6 +58,13 @@ Tengo experiencia en la creación y el mantenimiento de aplicaciones web, incluy
 | **Desarrollo** | Backend, web, Android, programación orientada a objetos |
 | **Herramientas** | Git, GitHub, Android Studio, MediaPipe, RPG Maker MV |
 | **Prácticas** | API REST, patrones de diseño, código limpio, documentación |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon" alt="Luics415 stack section" />
+  </picture>
+</p>
 
 ---
 
@@ -112,10 +108,18 @@ Busco oportunidades para contribuir como desarrollador de software y continuar c
 
 <div align="center">
 
-**Luis Enrique Rivera Delgado**  
-Desarrollador de Software  
-📱 WhatsApp: **(55) 6152 5238**  
-📍 Atizapán, México
+### Luis Enrique Rivera Delgado
+
+**Desarrollador de Software · Backend**
+
+<a href="https://wa.me/525561525238">
+  <img src="https://img.shields.io/badge/WhatsApp-(55)%206152%205238-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp" />
+</a>
+<img src="https://img.shields.io/badge/Ubicación-Atizapán%2C%20México-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación: Atizapán, México" />
+
+<br />
+
+Disponible para colaborar en proyectos de desarrollo de software y nuevas oportunidades profesionales.
 
 </div>
 
