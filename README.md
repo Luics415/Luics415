@@ -7,10 +7,11 @@
   </picture>
 </p>
 
+# Luis Enrique Rivera Delgado
 
-### Software Developer | Backend | Java | Python | JavaScript
+### Desarrollador de Software · Backend · Java · Python · JavaScript
 
-Construir soluciones de software que resuelvan problemas del mundo real a través de una arquitectura limpia, aprendizaje continuo y desarrollo práctico.
+Construyo soluciones de software orientadas a problemas reales, con énfasis en arquitectura limpia, calidad de código y aprendizaje continuo.
 
 [![GitHub followers](https://img.shields.io/github/followers/Luics415?style=social)](https://github.com/Luics415)
 
@@ -25,40 +26,35 @@ Construir soluciones de software que resuelvan problemas del mundo real a travé
 
 ---
 
-# 👨‍💻 Acerca de mí
+## 👨‍💻 Sobre mí
 
-Soy **Desarrollador de software** con experiencia profesional en la creación y mantenimiento de aplicaciones web.
+Soy desarrollador de software y estudiante de **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**.
 
-Actualmente desarrollo sistemas web para **servicios de gobierno digital**, mientras amplío continuamente mis conocimientos en desarrollo backend,
-Arquitectura de software y visión por computadora.
+Tengo experiencia en la creación y el mantenimiento de aplicaciones web, incluyendo sistemas para servicios de gobierno digital. Me interesa comprender cómo funcionan los sistemas, diseñar soluciones escalables y convertir necesidades reales en software claro, confiable y mantenible.
 
-Disfruto entendiendo cómo funcionan los sistemas, diseñando soluciones escalables y transformando ideas en software funcional.
-
+- 🎓 **Formación:** Ingeniería en Desarrollo y Gestión de Software
+- 🏫 **Universidad:** Universidad Tecnológica Fidel Velázquez
+- 🎂 **Edad:** 23 años
+- 📍 **Ubicación:** Atizapán, México
+- 💡 **Intereses:** desarrollo backend, arquitectura de software y visión por computadora
 
 ---
 
-# 🚀 Qué puedo hacer
+## 🚀 Competencias
 
-Desarrollar software desde cero en función de los requisitos del negocio.
+- Desarrollo de software a partir de requerimientos funcionales y de negocio.
+- Mantenimiento, mejora y documentación de aplicaciones existentes.
+- Diseño de soluciones mediante programación orientada a objetos.
+- Desarrollo de aplicaciones web con JavaScript y MySQL.
+- Creación de aplicaciones de escritorio y Android.
+- Diseño y modelado de bases de datos relacionales.
+- Desarrollo de soluciones de visión por computadora con Python y MediaPipe.
+- Análisis de problemas y adaptación rápida a nuevas tecnologías.
 
-Mantener y mejorar las aplicaciones existentes.
+---
 
-Diseñar e implementar soluciones orientadas a objetos.
+## 🧰 Tecnologías y herramientas
 
-Desarrollar aplicaciones web utilizando JavaScript y MySQL.
-
-Cree aplicaciones de escritorio y de Android.
-
-Diseñar bases de datos relacionales.
-
-Desarrollar aplicaciones de visión por computadora usando Python y MediaPipe.
-
-Analizar problemas y traducirlos en soluciones de software.
-
-Aprenda y adáptese rápidamente a nuevas tecnologías y entornos de desarrollo.
-
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon&mode=light" />
@@ -66,40 +62,17 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 
----
-
-# 💻 Pila de tecnología
-
-## Idiomas
-
-- Java
-- Python
-- JavaScript
-- SQL
-- PowerShell
-
-## Bases de datos
-
-- MySQL
-
-## Desarrollo
-
-- Programación Orientada a Objetos (POO)
-- Desarrollo de back-end
-- Desarrollo Web
-- Desarrollo de Android
-
-## Herramientas
-
-- Git
-- GitHub
-- Estudio Android
-- Tubo de medios
-- Creador de RPG MV
+| Área | Tecnologías |
+| --- | --- |
+| **Lenguajes** | Java, Python, JavaScript, SQL, PowerShell |
+| **Bases de datos** | MySQL |
+| **Desarrollo** | Backend, web, Android, programación orientada a objetos |
+| **Herramientas** | Git, GitHub, Android Studio, MediaPipe, RPG Maker MV |
+| **Prácticas** | API REST, patrones de diseño, código limpio, documentación |
 
 ---
 
-# ⭐ Proyectos destacados
+## ⭐ Proyectos destacados
 
 <p align="center">
   <picture>
@@ -110,30 +83,25 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
 
 ---
 
-# 📈 Enfoque actual
+## 📈 Enfoque actual
 
-Actualmente estoy mejorando mis conocimientos en:
+Actualmente continúo fortaleciendo mis conocimientos en:
 
-- Desarrollo de back-end
-- Ecosistema Java
-- Arquitectura de software
-- API REST
-- Patrones de diseño
-- Código limpio
-- Documentación 
+- Desarrollo backend y ecosistema Java.
+- Arquitectura de software y API REST.
+- Patrones de diseño y código limpio.
+- Documentación técnica.
+- Visión por computadora con Python.
 
 ---
 
-# 🎯 Objetivo profesional
+## 🎯 Objetivo profesional
 
-Estoy buscando oportunidades donde pueda contribuir como Desarrollador de Software mientras sigo creciendo en Desarrollo Backend e Ingeniería de Software.
-
-Disfruto trabajando en proyectos que involucran la resolución de problemas complejos,
-aprender nuevas tecnologías y crear software con impacto real.
+Busco oportunidades para contribuir como desarrollador de software y continuar creciendo en desarrollo backend e ingeniería de software. Me motivan los proyectos que exigen resolver problemas complejos, aprender nuevas tecnologías y crear productos con impacto real.
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
 <p align="center">
   <picture>
@@ -142,14 +110,19 @@ aprender nuevas tecnologías y crear software con impacto real.
   </picture>
 </p>
 
-📧 **alerivera8777@gmail.com**
+<div align="center">
 
-💼 **Desarrollador de software**
+**Luis Enrique Rivera Delgado**  
+Desarrollador de Software  
+📱 WhatsApp: **(55) 6152 5238**  
+📍 Atizapán, México
 
-🌎 **México**
+</div>
 
 ---
 
-> *"Software is more than writing code; it's about understanding problems and building reliable solutions."*
+<div align="center">
 
+*“El software va más allá de escribir código: consiste en comprender problemas y construir soluciones confiables.”*
 
+</div>
