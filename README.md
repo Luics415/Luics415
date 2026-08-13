@@ -7,9 +7,6 @@
 
 <div align="center">
 
-# Luis Enrique Rivera Delgado
-
-### Desarrollador de Software · Backend · Java · Python · JavaScript
 
 Construyo soluciones de software orientadas a problemas reales, con énfasis en
 arquitectura limpia, calidad de código y aprendizaje continuo.
@@ -46,23 +43,6 @@ necesidades reales en software claro, confiable y mantenible.
 ---
 
 ## 🚀 Competencias
-
-- Desarrollo de software a partir de requerimientos funcionales y de negocio.
-- Mantenimiento, mejora y documentación de aplicaciones existentes.
-- Diseño de soluciones mediante programación orientada a objetos.
-- Desarrollo de aplicaciones web con JavaScript y MySQL.
-- Creación de aplicaciones de escritorio y Android.
-- Diseño y modelado de bases de datos relacionales.
-- Soluciones de visión por computadora con Python y MediaPipe.
-- Análisis de problemas y adaptación rápida a nuevas tecnologías.
-
-| Área | Tecnologías |
-| --- | --- |
-| **Lenguajes** | Java, HTML, CSS, C, C++, Sass, JavaScript, TypeScript, C#, Python, PHP, Kotlin |
-| **Bases de datos** | MySQL, MariaDB |
-| **Desarrollo** | Backend, web, Android, escritorio, programación orientada a objetos |
-| **Herramientas** | Git, GitHub, Android Studio, MediaPipe, RPG Maker MV |
-| **Prácticas** | API REST, patrones de diseño, código limpio, pruebas, documentación |
 
 <p align="center">
   <picture>
