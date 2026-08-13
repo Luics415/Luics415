@@ -1,0 +1,212 @@
+{
+  "signal_date": "2026-08-13",
+  "repositories_fetched": 24,
+  "repositories_analyzed": 17,
+  "language_repositories": [
+    "Bio-Gesture-Control-Android",
+    "Bio-Gesture-Control-Pro",
+    "break_the_glass",
+    "caso-final-estudio",
+    "Credit-Card",
+    "Cubo-Rubik",
+    "curriculum",
+    "Dev-Visualizer",
+    "gatitos-app",
+    "GX-Pets",
+    "KASA-Service-Tracker",
+    "MenuGiratorio",
+    "multipleWindow3dScene",
+    "palabra-y-oracion",
+    "sistema-becas",
+    "stone-paper-and-scissors",
+    "Tlalne-Priority"
+  ],
+  "language_bytes": {
+    "Java": 0,
+    "HTML": 106955,
+    "CSS": 635560,
+    "C": 0,
+    "C++": 28804,
+    "Sass": 35703,
+    "JavaScript": 819521,
+    "TypeScript": 1646463,
+    "C#": 44392,
+    "Python": 28019,
+    "PHP": 405879,
+    "Kotlin": 30312
+  },
+  "language_repo_counts": {
+    "Java": 0,
+    "HTML": 10,
+    "CSS": 7,
+    "C": 0,
+    "C++": 1,
+    "Sass": 1,
+    "JavaScript": 11,
+    "TypeScript": 2,
+    "C#": 1,
+    "Python": 3,
+    "PHP": 1,
+    "Kotlin": 1
+  },
+  "projects": [
+    {
+      "name": "KASA-Service-Tracker",
+      "language": "C#",
+      "stars": 1,
+      "updated_at": "2026-08-13T02:07:13Z",
+      "url": "https://github.com/Luics415/KASA-Service-Tracker",
+      "description": "Seguimiento de órdenes automotrices con .NET 8 y pruebas."
+    },
+    {
+      "name": "Tlalne-Priority",
+      "language": "C++",
+      "stars": 1,
+      "updated_at": "2026-08-13T05:56:21Z",
+      "url": "https://github.com/Luics415/Tlalne-Priority",
+      "description": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
+    },
+    {
+      "name": "Dev-Visualizer",
+      "language": "TypeScript",
+      "stars": 1,
+      "updated_at": "2026-07-30T02:49:01Z",
+      "url": "https://github.com/Luics415/Dev-Visualizer",
+      "description": "Atlas visual para aprender arquitectura y conceptos de software."
+    },
+    {
+      "name": "GX-Pets",
+      "language": "JavaScript",
+      "stars": 1,
+      "updated_at": "2026-07-27T07:47:24Z",
+      "url": "https://github.com/Luics415/GX-Pets",
+      "description": "Motor de mascotas virtuales persistentes para Opera GX."
+    },
+    {
+      "name": "sistema-becas",
+      "language": "PHP",
+      "stars": 1,
+      "updated_at": "2026-07-23T19:11:11Z",
+      "url": "https://github.com/Luics415/sistema-becas",
+      "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
+    },
+    {
+      "name": "palabra-y-oracion",
+      "language": "JavaScript",
+      "stars": 1,
+      "updated_at": "2026-08-12T02:10:47Z",
+      "url": "https://github.com/Luics415/palabra-y-oracion",
+      "description": "Biblia, Rosario y oraciones con lector de voz accesible."
+    }
+  ],
+  "all_projects": [
+    {
+      "name": "Dev-Visualizer",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/Dev-Visualizer",
+      "description": "Atlas visual para aprender arquitectura y conceptos de software."
+    },
+    {
+      "name": "GX-Pets",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/GX-Pets",
+      "description": "Motor de mascotas virtuales persistentes para Opera GX."
+    },
+    {
+      "name": "KASA-Service-Tracker",
+      "language": "C#",
+      "url": "https://github.com/Luics415/KASA-Service-Tracker",
+      "description": "Seguimiento de órdenes automotrices con .NET 8 y pruebas."
+    },
+    {
+      "name": "sistema-becas",
+      "language": "PHP",
+      "url": "https://github.com/Luics415/sistema-becas",
+      "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
+    },
+    {
+      "name": "palabra-y-oracion",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/palabra-y-oracion",
+      "description": "Biblia, Rosario y oraciones con lector de voz accesible."
+    },
+    {
+      "name": "Bio-Gesture-Control-Pro",
+      "language": "Python",
+      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
+      "description": "Control de PC sin contacto mediante visión por computadora."
+    },
+    {
+      "name": "Bio-Gesture-Control-Android",
+      "language": "Kotlin",
+      "url": "https://github.com/Luics415/Bio-Gesture-Control-Android",
+      "description": "Control gestual experimental para Android con MediaPipe."
+    },
+    {
+      "name": "Tlalne-Priority",
+      "language": "C++",
+      "url": "https://github.com/Luics415/Tlalne-Priority",
+      "description": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
+    },
+    {
+      "name": "stone-paper-and-scissors",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/stone-paper-and-scissors",
+      "description": "Juego de Piedra Papel o Tijeras, pero mas emocionante"
+    },
+    {
+      "name": "caso-final-estudio",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/caso-final-estudio",
+      "description": "Pipeline de Liberación y Despliegue Continuo"
+    },
+    {
+      "name": "multipleWindow3dScene",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/multipleWindow3dScene",
+      "description": "Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador."
+    },
+    {
+      "name": "Credit-Card",
+      "language": "CSS",
+      "url": "https://github.com/Luics415/Credit-Card",
+      "description": "Un estilo para ocasiones que se requieren pagos web"
+    },
+    {
+      "name": "MenuGiratorio",
+      "language": "CSS",
+      "url": "https://github.com/Luics415/MenuGiratorio",
+      "description": "Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada."
+    },
+    {
+      "name": "Cubo-Rubik",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/Cubo-Rubik",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
+      "name": "break_the_glass",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/break_the_glass",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
+      "name": "gatitos-app",
+      "language": "HTML",
+      "url": "https://github.com/Luics415/gatitos-app",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
+      "name": "GX-Pets-Azlynn-Edition",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/GX-Pets-Azlynn-Edition",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
+      "name": "curriculum",
+      "language": "HTML",
+      "url": "https://github.com/Luics415/curriculum",
+      "description": "Actividad 13"
+    }
+  ]
+}
