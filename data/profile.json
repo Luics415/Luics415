@@ -1,0 +1,141 @@
+{
+  "username": "Luics415",
+  "name": "Luis Enrique Rivera Delgado",
+  "role": "Desarrollador de Software · Backend",
+  "headline": "Java · Python · JavaScript",
+  "tagline": "Arquitectura limpia · Código confiable · Aprendizaje continuo",
+  "location": "Atizapán, México",
+  "whatsapp_display": "(55) 6152 5238",
+  "whatsapp_url": "https://wa.me/525561525238",
+  "social_title": "Código con rumbo, canales abiertos.",
+  "social_subtitle": "La lógica es el ancla; cada proyecto encuentra su dirección.",
+  "areas": [
+    "Backend",
+    "Web",
+    "Android",
+    "Escritorio"
+  ],
+  "competencies": [
+    "API REST",
+    "POO",
+    "Código limpio",
+    "Bases de datos",
+    "Visión por computadora",
+    "Documentación"
+  ],
+  "technologies": [
+    "Java",
+    "HTML",
+    "CSS",
+    "C",
+    "C++",
+    "Sass",
+    "JavaScript",
+    "TypeScript",
+    "C#",
+    "Python",
+    "PHP",
+    "Kotlin"
+  ],
+  "featured_priority": [
+    "Dev-Visualizer",
+    "GX-Pets",
+    "KASA-Service-Tracker",
+    "sistema-becas",
+    "Bio-Gesture-Control-Pro",
+    "palabra-y-oracion",
+    "Bio-Gesture-Control-Android"
+  ],
+  "featured_required": [
+    "KASA-Service-Tracker",
+    "Tlalne-Priority"
+  ],
+  "featured_limit": 6,
+  "language_excludes": [
+    "Luics415",
+    "Luics415.github.io",
+    "mediapipe",
+    "EternalMazesRPG-Android",
+    "EternalMazesRPG-Windows",
+    "GX-Pets-ARMY-Edition"
+  ],
+  "language_exclude_prefixes": [
+    "GX-Pets-",
+    "Readme-",
+    "readme-"
+  ],
+  "project_excludes": [
+    "Luics415",
+    "Luics415.github.io",
+    "mediapipe",
+    "Hola-Mundo",
+    "EternalMazesRPG-Android",
+    "EternalMazesRPG-Windows",
+    "GX-Pets-ARMY-Edition"
+  ],
+  "project_copy": {
+    "Dev-Visualizer": "Atlas visual para aprender arquitectura y conceptos de software.",
+    "GX-Pets": "Motor de mascotas virtuales persistentes para Opera GX.",
+    "KASA-Service-Tracker": "Seguimiento de órdenes automotrices con .NET 8 y pruebas.",
+    "sistema-becas": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.",
+    "Bio-Gesture-Control-Pro": "Control de PC sin contacto mediante visión por computadora.",
+    "palabra-y-oracion": "Biblia, Rosario y oraciones con lector de voz accesible.",
+    "Bio-Gesture-Control-Android": "Control gestual experimental para Android con MediaPipe.",
+    "Tlalne-Priority": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
+  },
+  "chess_lines": [
+    {
+      "name": "Mate del Pastor",
+      "caption": "4.Qxf7# · Jaque mate",
+      "moves": [
+        ["e2", "e4"],
+        ["e7", "e5"],
+        ["f1", "c4"],
+        ["b8", "c6"],
+        ["d1", "h5"],
+        ["g8", "f6"],
+        ["h5", "f7"]
+      ],
+      "notation": "1.e4 e5 2.Bc4 Nc6 3.Qh5 Nf6?? 4.Qxf7#",
+      "mate": true
+    },
+    {
+      "name": "Apertura Bird",
+      "caption": "Posición característica · la partida continúa",
+      "moves": [
+        ["f2", "f4"],
+        ["d7", "d5"],
+        ["g1", "f3"],
+        ["g8", "f6"],
+        ["e2", "e3"],
+        ["g7", "g6"],
+        ["b2", "b3"],
+        ["f8", "g7"],
+        ["c1", "b2"],
+        ["e8", "g8"]
+      ],
+      "notation": "1.f4 d5 2.Nf3 Nf6 3.e3 g6 4.b3 Bg7 5.Bb2 O-O",
+      "mate": false
+    },
+    {
+      "name": "Defensa Caro-Kann",
+      "caption": "Línea clásica · la partida continúa",
+      "moves": [
+        ["e2", "e4"],
+        ["c7", "c6"],
+        ["d2", "d4"],
+        ["d7", "d5"],
+        ["b1", "c3"],
+        ["d5", "e4"],
+        ["c3", "e4"],
+        ["c8", "f5"],
+        ["e4", "g3"],
+        ["f5", "g6"],
+        ["h2", "h4"],
+        ["h7", "h6"]
+      ],
+      "notation": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6",
+      "mate": false
+    }
+  ]
+}

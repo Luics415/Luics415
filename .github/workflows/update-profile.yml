@@ -9,31 +9,43 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-visuals
+  group: update-profile-visuals
   cancel-in-progress: true
 
 jobs:
-  update:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python -m pip install --disable-pip-version-check pillow
-      - name: Generate stack and projects
+          cache: pip
+
+      - name: Install image dependency
+        run: python -m pip install -r requirements.txt
+
+      - name: Regenerate local profile assets
         env:
-          PROFILE_USER: Luics415
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_profile_assets.py
-      - name: Commit generated visuals
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_assets.py --strict-refresh
+
+      - name: Validate generated files
+        run: python scripts/validate_profile_assets.py
+
+      - name: Commit only when public data changed
+        shell: bash
         run: |
-          if git diff --quiet -- assets/stack.svg assets/stack.gif assets/projects.svg assets/projects.gif; then
-            echo "No changes."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stack.svg assets/stack.gif assets/projects.svg assets/projects.gif
-          git commit -m "chore(profile): refresh repository visuals"
-          git push
+          git add README.md assets data/profile-snapshot.json docs/animation-system.md
+          if git diff --cached --quiet; then
+            echo "Profile visuals are already current."
+          else
+            git commit -m "chore(profile): refresh generated visuals"
+            git push
+          fi

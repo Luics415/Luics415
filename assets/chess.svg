@@ -1,1 +1,315 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="365" viewBox="0 0 1000 365"><rect x="1" y="1" width="998" height="363" rx="26" fill="#08111F" stroke="#314665"/><text x="48" y="42" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">CHESS // THREE LINES</text><text x="48" y="68" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="13">Mate del Pastor · Apertura Bird · Defensa Caro-Kann</text><g font-family="Segoe UI,Arial,sans-serif"><g transform="translate(48 96)"><rect width="286" height="215" rx="18" fill="#101C31" stroke="#A6D0F2"/><text x="18" y="30" fill="#A6D0F2" font-size="11">LINE 01</text><text x="18" y="60" fill="#F3F7FF" font-size="18" font-weight="700">Mate del Pastor</text><text x="18" y="87" fill="#A7B7D0" font-size="12">e4 e5 · Bc4 Nc6</text><text x="18" y="108" fill="#A7B7D0" font-size="12">Qh5 Nf6 · Qxf7#</text><text x="18" y="157" fill="#F3F7FF" font-size="46">♕ → f7#</text></g><g transform="translate(357 96)"><rect width="286" height="215" rx="18" fill="#101C31" stroke="#EBAFE1"/><text x="18" y="30" fill="#EBAFE1" font-size="11">LINE 02</text><text x="18" y="60" fill="#F3F7FF" font-size="18" font-weight="700">Apertura Bird</text><text x="18" y="87" fill="#A7B7D0" font-size="12">f4 d5 · Nf3 Nf6</text><text x="18" y="108" fill="#A7B7D0" font-size="12">e3 g6 · Be2 Bg7</text><text x="18" y="157" fill="#F3F7FF" font-size="46">♙ → f4</text></g><g transform="translate(666 96)"><rect width="286" height="215" rx="18" fill="#101C31" stroke="#A84370"/><text x="18" y="30" fill="#A84370" font-size="11">LINE 03</text><text x="18" y="60" fill="#F3F7FF" font-size="18" font-weight="700">Defensa Caro-Kann</text><text x="18" y="87" fill="#A7B7D0" font-size="12">e4 c6 · d4 d5</text><text x="18" y="108" fill="#A7B7D0" font-size="12">Nc3 dxe4 · Nxe4 Bf5</text><text x="18" y="157" fill="#F3F7FF" font-size="46">♟ → c6</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img">
+<title>Luics415 · Tres líneas de ajedrez</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06385C"/><stop offset=".56" stop-color="#020611"/><stop offset="1" stop-color="#16031F"/></linearGradient>
+<linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E7FF"/><stop offset="1" stop-color="#FF23C8"/></linearGradient>
+<radialGradient id="glow-cyan"><stop stop-color="#00E7FF" stop-opacity=".31"/><stop offset="1" stop-color="#00E7FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-magenta"><stop stop-color="#FF23C8" stop-opacity=".27"/><stop offset="1" stop-color="#FF23C8" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-wine"><stop stop-color="#C41A68" stop-opacity=".30"/><stop offset="1" stop-color="#C41A68" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#215377" stroke-width="1"/></pattern>
+</defs>
+<rect width="900" height="560" fill="url(#bg)"/>
+<ellipse cx="110" cy="90" rx="320" ry="250" fill="url(#glow-cyan)"/>
+<ellipse cx="800" cy="90" rx="280" ry="240" fill="url(#glow-magenta)"/>
+<ellipse cx="790" cy="520" rx="340" ry="280" fill="url(#glow-wine)"/>
+<rect width="900" height="560" fill="url(#grid)" opacity=".82"/>
+<rect x="18" y="18" width="864" height="524" rx="26" fill="none" stroke="#4A9BC7" stroke-width="2"/>
+<text x="60" y="72" fill="#00E7FF" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="600" text-anchor="start">CHESS LAB</text>
+<text x="60" y="120" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" text-anchor="start">Estrategia en movimiento</text>
+<text x="60" y="154" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start">Mate del Pastor · Apertura Bird · Defensa Caro-Kann</text>
+<rect x="60" y="198" width="240" height="302" rx="22" fill="#21173C" stroke="#FF23C8" stroke-opacity=".90"/>
+<rect x="68" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="96" y="206" width="28" height="28" fill="#356080"/>
+<rect x="124" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="152" y="206" width="28" height="28" fill="#356080"/>
+<rect x="180" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="208" y="206" width="28" height="28" fill="#356080"/>
+<rect x="236" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="264" y="206" width="28" height="28" fill="#356080"/>
+<rect x="68" y="234" width="28" height="28" fill="#356080"/>
+<rect x="96" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="124" y="234" width="28" height="28" fill="#356080"/>
+<rect x="152" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="180" y="234" width="28" height="28" fill="#356080"/>
+<rect x="208" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="236" y="234" width="28" height="28" fill="#356080"/>
+<rect x="264" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="68" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="96" y="262" width="28" height="28" fill="#356080"/>
+<rect x="124" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="152" y="262" width="28" height="28" fill="#356080"/>
+<rect x="180" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="208" y="262" width="28" height="28" fill="#356080"/>
+<rect x="236" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="264" y="262" width="28" height="28" fill="#356080"/>
+<rect x="68" y="290" width="28" height="28" fill="#356080"/>
+<rect x="96" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="124" y="290" width="28" height="28" fill="#356080"/>
+<rect x="152" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="180" y="290" width="28" height="28" fill="#356080"/>
+<rect x="208" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="236" y="290" width="28" height="28" fill="#356080"/>
+<rect x="264" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="68" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="96" y="318" width="28" height="28" fill="#356080"/>
+<rect x="124" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="152" y="318" width="28" height="28" fill="#356080"/>
+<rect x="180" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="208" y="318" width="28" height="28" fill="#356080"/>
+<rect x="236" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="264" y="318" width="28" height="28" fill="#356080"/>
+<rect x="68" y="346" width="28" height="28" fill="#356080"/>
+<rect x="96" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="124" y="346" width="28" height="28" fill="#356080"/>
+<rect x="152" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="180" y="346" width="28" height="28" fill="#356080"/>
+<rect x="208" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="236" y="346" width="28" height="28" fill="#356080"/>
+<rect x="264" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="68" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="96" y="374" width="28" height="28" fill="#356080"/>
+<rect x="124" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="152" y="374" width="28" height="28" fill="#356080"/>
+<rect x="180" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="208" y="374" width="28" height="28" fill="#356080"/>
+<rect x="236" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="264" y="374" width="28" height="28" fill="#356080"/>
+<rect x="68" y="402" width="28" height="28" fill="#356080"/>
+<rect x="96" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="124" y="402" width="28" height="28" fill="#356080"/>
+<rect x="152" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="180" y="402" width="28" height="28" fill="#356080"/>
+<rect x="208" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="236" y="402" width="28" height="28" fill="#356080"/>
+<rect x="264" y="402" width="28" height="28" fill="#E2F2FF"/>
+<text x="82.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="82.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="82.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="110.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="110.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="110.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="138.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="138.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="138.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="166.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="166.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="194.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♔</text>
+<text x="222.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="250.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="250.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="250.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="278.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="278.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="278.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="82.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="138.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="166.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♛</text>
+<text x="194.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♚</text>
+<text x="222.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="278.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="194.0" y="340.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="194.0" y="312.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="138.0" y="340.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="138.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="222.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="222.0" y="256.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♕</text>
+<text x="60" y="465" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" text-anchor="start">Mate del Pastor</text>
+<text x="60" y="489" fill="#FF23C8" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="start">4.Qxf7# · Jaque mate</text>
+<rect x="331" y="198" width="240" height="302" rx="22" fill="#052D42" stroke="#00E7FF" stroke-opacity=".90"/>
+<rect x="339" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="367" y="206" width="28" height="28" fill="#356080"/>
+<rect x="395" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="423" y="206" width="28" height="28" fill="#356080"/>
+<rect x="451" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="479" y="206" width="28" height="28" fill="#356080"/>
+<rect x="507" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="535" y="206" width="28" height="28" fill="#356080"/>
+<rect x="339" y="234" width="28" height="28" fill="#356080"/>
+<rect x="367" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="395" y="234" width="28" height="28" fill="#356080"/>
+<rect x="423" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="451" y="234" width="28" height="28" fill="#356080"/>
+<rect x="479" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="507" y="234" width="28" height="28" fill="#356080"/>
+<rect x="535" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="339" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="367" y="262" width="28" height="28" fill="#356080"/>
+<rect x="395" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="423" y="262" width="28" height="28" fill="#356080"/>
+<rect x="451" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="479" y="262" width="28" height="28" fill="#356080"/>
+<rect x="507" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="535" y="262" width="28" height="28" fill="#356080"/>
+<rect x="339" y="290" width="28" height="28" fill="#356080"/>
+<rect x="367" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="395" y="290" width="28" height="28" fill="#356080"/>
+<rect x="423" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="451" y="290" width="28" height="28" fill="#356080"/>
+<rect x="479" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="507" y="290" width="28" height="28" fill="#356080"/>
+<rect x="535" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="339" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="367" y="318" width="28" height="28" fill="#356080"/>
+<rect x="395" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="423" y="318" width="28" height="28" fill="#356080"/>
+<rect x="451" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="479" y="318" width="28" height="28" fill="#356080"/>
+<rect x="507" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="535" y="318" width="28" height="28" fill="#356080"/>
+<rect x="339" y="346" width="28" height="28" fill="#356080"/>
+<rect x="367" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="395" y="346" width="28" height="28" fill="#356080"/>
+<rect x="423" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="451" y="346" width="28" height="28" fill="#356080"/>
+<rect x="479" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="507" y="346" width="28" height="28" fill="#356080"/>
+<rect x="535" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="339" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="367" y="374" width="28" height="28" fill="#356080"/>
+<rect x="395" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="423" y="374" width="28" height="28" fill="#356080"/>
+<rect x="451" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="479" y="374" width="28" height="28" fill="#356080"/>
+<rect x="507" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="535" y="374" width="28" height="28" fill="#356080"/>
+<rect x="339" y="402" width="28" height="28" fill="#356080"/>
+<rect x="367" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="395" y="402" width="28" height="28" fill="#356080"/>
+<rect x="423" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="451" y="402" width="28" height="28" fill="#356080"/>
+<rect x="479" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="507" y="402" width="28" height="28" fill="#356080"/>
+<rect x="535" y="402" width="28" height="28" fill="#E2F2FF"/>
+<text x="353.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="353.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="353.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="381.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="381.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="409.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="409.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="437.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♕</text>
+<text x="437.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="465.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♔</text>
+<text x="465.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="493.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="493.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="521.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="549.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="549.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="549.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="353.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="381.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="409.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="437.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♛</text>
+<text x="493.0" y="340.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="437.0" y="312.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="493.0" y="368.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="493.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="465.0" y="368.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="521.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="381.0" y="368.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="521.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="381.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="493.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="521.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♚</text>
+<text x="331" y="465" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" text-anchor="start">Apertura Bird</text>
+<text x="331" y="489" fill="#E2F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="start">Línea representativa</text>
+<rect x="602" y="198" width="240" height="302" rx="22" fill="#052D42" stroke="#00E7FF" stroke-opacity=".90"/>
+<rect x="610" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="638" y="206" width="28" height="28" fill="#356080"/>
+<rect x="666" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="694" y="206" width="28" height="28" fill="#356080"/>
+<rect x="722" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="750" y="206" width="28" height="28" fill="#356080"/>
+<rect x="778" y="206" width="28" height="28" fill="#E2F2FF"/>
+<rect x="806" y="206" width="28" height="28" fill="#356080"/>
+<rect x="610" y="234" width="28" height="28" fill="#356080"/>
+<rect x="638" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="666" y="234" width="28" height="28" fill="#356080"/>
+<rect x="694" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="722" y="234" width="28" height="28" fill="#356080"/>
+<rect x="750" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="778" y="234" width="28" height="28" fill="#356080"/>
+<rect x="806" y="234" width="28" height="28" fill="#E2F2FF"/>
+<rect x="610" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="638" y="262" width="28" height="28" fill="#356080"/>
+<rect x="666" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="694" y="262" width="28" height="28" fill="#356080"/>
+<rect x="722" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="750" y="262" width="28" height="28" fill="#356080"/>
+<rect x="778" y="262" width="28" height="28" fill="#E2F2FF"/>
+<rect x="806" y="262" width="28" height="28" fill="#356080"/>
+<rect x="610" y="290" width="28" height="28" fill="#356080"/>
+<rect x="638" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="666" y="290" width="28" height="28" fill="#356080"/>
+<rect x="694" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="722" y="290" width="28" height="28" fill="#356080"/>
+<rect x="750" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="778" y="290" width="28" height="28" fill="#356080"/>
+<rect x="806" y="290" width="28" height="28" fill="#E2F2FF"/>
+<rect x="610" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="638" y="318" width="28" height="28" fill="#356080"/>
+<rect x="666" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="694" y="318" width="28" height="28" fill="#356080"/>
+<rect x="722" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="750" y="318" width="28" height="28" fill="#356080"/>
+<rect x="778" y="318" width="28" height="28" fill="#E2F2FF"/>
+<rect x="806" y="318" width="28" height="28" fill="#356080"/>
+<rect x="610" y="346" width="28" height="28" fill="#356080"/>
+<rect x="638" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="666" y="346" width="28" height="28" fill="#356080"/>
+<rect x="694" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="722" y="346" width="28" height="28" fill="#356080"/>
+<rect x="750" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="778" y="346" width="28" height="28" fill="#356080"/>
+<rect x="806" y="346" width="28" height="28" fill="#E2F2FF"/>
+<rect x="610" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="638" y="374" width="28" height="28" fill="#356080"/>
+<rect x="666" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="694" y="374" width="28" height="28" fill="#356080"/>
+<rect x="722" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="750" y="374" width="28" height="28" fill="#356080"/>
+<rect x="778" y="374" width="28" height="28" fill="#E2F2FF"/>
+<rect x="806" y="374" width="28" height="28" fill="#356080"/>
+<rect x="610" y="402" width="28" height="28" fill="#356080"/>
+<rect x="638" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="666" y="402" width="28" height="28" fill="#356080"/>
+<rect x="694" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="722" y="402" width="28" height="28" fill="#356080"/>
+<rect x="750" y="402" width="28" height="28" fill="#E2F2FF"/>
+<rect x="778" y="402" width="28" height="28" fill="#356080"/>
+<rect x="806" y="402" width="28" height="28" fill="#E2F2FF"/>
+<text x="624.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="624.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="624.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="652.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="652.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="680.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="680.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="708.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♕</text>
+<text x="736.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♔</text>
+<text x="736.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="764.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♗</text>
+<text x="764.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="764.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="792.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="792.0" y="396.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="792.0" y="256.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="820.0" y="424.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♖</text>
+<text x="624.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="652.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="708.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♛</text>
+<text x="736.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♚</text>
+<text x="764.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="792.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♞</text>
+<text x="820.0" y="228.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♜</text>
+<text x="680.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="708.0" y="340.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="792.0" y="368.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♘</text>
+<text x="792.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♝</text>
+<text x="820.0" y="340.0" fill="#F8FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♙</text>
+<text x="820.0" y="284.0" fill="#09101A" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">♟</text>
+<text x="602" y="465" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" text-anchor="start">Defensa Caro-Kann</text>
+<text x="602" y="489" fill="#E2F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="start">Línea representativa</text>
+<text x="46" y="526" fill="#D2E6F6" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="400" text-anchor="start">LUICS415 // CHESS</text>
+</svg>

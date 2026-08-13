@@ -1,1 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360"><rect x="1" y="1" width="998" height="358" rx="26" fill="#08111F" stroke="#314665"/><text x="48" y="43" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">FEATURED PROJECTS // AUTO-SYNC</text><text x="48" y="69" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="13">Selección automática basada en actividad, contenido y relevancia.</text><g transform="translate(48 95)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A6D0F2"/><text x="18" y="30" fill="#A6D0F2" font-family="Segoe UI,Arial,sans-serif" font-size="10">C#</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">KASA-Service-Tracker</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Seguimiento de órdenes de servicio automotriz</text></g><g transform="translate(349 95)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A84370"/><text x="18" y="30" fill="#A84370" font-family="Segoe UI,Arial,sans-serif" font-size="10">TYPESCRIPT</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Dev-Visualizer</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Visualizador educativo de conceptos de progra</text></g><g transform="translate(650 95)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A6D0F2"/><text x="18" y="30" fill="#A6D0F2" font-family="Segoe UI,Arial,sans-serif" font-size="10">JAVASCRIPT</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">GX-Pets</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Extensión interactiva para Opera GX.</text></g><g transform="translate(48 217)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A84370"/><text x="18" y="30" fill="#A84370" font-family="Segoe UI,Arial,sans-serif" font-size="10">PHP</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">sistema-becas</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Sistema Laravel con roles y PostgreSQL.</text></g><g transform="translate(349 217)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A6D0F2"/><text x="18" y="30" fill="#A6D0F2" font-family="Segoe UI,Arial,sans-serif" font-size="10">KOTLIN</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Bio-Gesture-Control-Android</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Control por gestos adaptado a Android.</text></g><g transform="translate(650 217)"><rect width="274" height="101" rx="18" fill="#101C31" stroke="#314665"/><rect x="0" y="0" width="274" height="5" rx="3" fill="#A84370"/><text x="18" y="30" fill="#A84370" font-family="Segoe UI,Arial,sans-serif" font-size="10">TYPESCRIPT</text><text x="18" y="55" fill="#F3F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Luics415.github.io</text><text x="18" y="79" fill="#A7B7D0" font-family="Segoe UI,Arial,sans-serif" font-size="10">Portafolio web personal.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="850" viewBox="0 0 900 850" role="img">
+<title>Luics415 · Proyectos destacados</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06385C"/><stop offset=".56" stop-color="#020611"/><stop offset="1" stop-color="#16031F"/></linearGradient>
+<linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E7FF"/><stop offset="1" stop-color="#FF23C8"/></linearGradient>
+<radialGradient id="glow-cyan"><stop stop-color="#00E7FF" stop-opacity=".31"/><stop offset="1" stop-color="#00E7FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-magenta"><stop stop-color="#FF23C8" stop-opacity=".27"/><stop offset="1" stop-color="#FF23C8" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-wine"><stop stop-color="#C41A68" stop-opacity=".30"/><stop offset="1" stop-color="#C41A68" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#215377" stroke-width="1"/></pattern>
+</defs>
+<rect width="900" height="850" fill="url(#bg)"/>
+<ellipse cx="110" cy="90" rx="320" ry="250" fill="url(#glow-cyan)"/>
+<ellipse cx="800" cy="90" rx="280" ry="240" fill="url(#glow-magenta)"/>
+<ellipse cx="790" cy="810" rx="340" ry="280" fill="url(#glow-wine)"/>
+<rect width="900" height="850" fill="url(#grid)" opacity=".82"/>
+<rect x="18" y="18" width="864" height="814" rx="26" fill="none" stroke="#4A9BC7" stroke-width="2"/>
+<text x="60" y="72" fill="#00E7FF" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="600" text-anchor="start">CURATED AUTOMATICALLY</text>
+<text x="60" y="122" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="800" text-anchor="start">Proyectos destacados</text>
+<text x="60" y="158" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start">Actividad, profundidad y valor profesional</text>
+<rect x="60" y="190" width="376" height="162" rx="22" fill="#171D42" stroke="#A454FF" stroke-opacity=".90"/>
+<rect x="82" y="212" width="52" height="52" rx="15" fill="#0D2A49" stroke="#A454FF"/>
+<text x="108" y="246" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">K</text>
+<text x="150" y="232" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">KASA-Service-Tracker</text>
+<text x="150" y="258" fill="#A454FF" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">C# · ★ 1</text>
+<text x="82" y="295" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Seguimiento de órdenes automotrices con</text>
+<text x="82" y="316" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">.NET 8 y pruebas.</text>
+<text x="414" y="335" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-08-13</text>
+<rect x="469" y="190" width="376" height="162" rx="22" fill="#0B2542" stroke="#329DFF" stroke-opacity=".90"/>
+<rect x="491" y="212" width="52" height="52" rx="15" fill="#0D2A49" stroke="#329DFF"/>
+<text x="517" y="246" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">T</text>
+<text x="559" y="232" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">Tlalne-Priority</text>
+<text x="559" y="258" fill="#329DFF" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">C++ · ★ 1</text>
+<text x="491" y="295" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Priorización de incidencias urbanas con</text>
+<text x="491" y="316" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">C++20, CMake y pruebas.</text>
+<text x="823" y="335" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-08-13</text>
+<rect x="60" y="376" width="376" height="162" rx="22" fill="#092642" stroke="#1FA8FF" stroke-opacity=".90"/>
+<rect x="82" y="398" width="52" height="52" rx="15" fill="#0D2A49" stroke="#1FA8FF"/>
+<text x="108" y="432" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">D</text>
+<text x="150" y="418" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">Dev-Visualizer</text>
+<text x="150" y="444" fill="#1FA8FF" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">TypeScript · ★ 1</text>
+<text x="82" y="481" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Atlas visual para aprender arquitectura y</text>
+<text x="82" y="502" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">conceptos de software.</text>
+<text x="414" y="521" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-07-30</text>
+<rect x="469" y="376" width="376" height="162" rx="22" fill="#212D26" stroke="#FFE600" stroke-opacity=".90"/>
+<rect x="491" y="398" width="52" height="52" rx="15" fill="#0D2A49" stroke="#FFE600"/>
+<text x="517" y="432" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">G</text>
+<text x="559" y="418" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">GX-Pets</text>
+<text x="559" y="444" fill="#FFE600" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">JavaScript · ★ 1</text>
+<text x="491" y="481" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Motor de mascotas virtuales persistentes</text>
+<text x="491" y="502" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">para Opera GX.</text>
+<text x="823" y="521" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-07-27</text>
+<rect x="60" y="562" width="376" height="162" rx="22" fill="#142242" stroke="#8784FF" stroke-opacity=".90"/>
+<rect x="82" y="584" width="52" height="52" rx="15" fill="#0D2A49" stroke="#8784FF"/>
+<text x="108" y="618" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">S</text>
+<text x="150" y="604" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">sistema-becas</text>
+<text x="150" y="630" fill="#8784FF" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">PHP · ★ 1</text>
+<text x="82" y="667" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Gestión MVC de becas con PHP, PDO y</text>
+<text x="82" y="688" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">MySQL/MariaDB.</text>
+<text x="414" y="707" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-07-23</text>
+<rect x="469" y="562" width="376" height="162" rx="22" fill="#212D26" stroke="#FFE600" stroke-opacity=".90"/>
+<rect x="491" y="584" width="52" height="52" rx="15" fill="#0D2A49" stroke="#FFE600"/>
+<text x="517" y="618" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">P</text>
+<text x="559" y="604" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="start">palabra-y-oracion</text>
+<text x="559" y="630" fill="#FFE600" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="600" text-anchor="start">JavaScript · ★ 1</text>
+<text x="491" y="667" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">Biblia, Rosario y oraciones con lector de</text>
+<text x="491" y="688" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="start">voz accesible.</text>
+<text x="823" y="707" fill="#E2F2FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="500" text-anchor="end">2026-08-12</text>
+<text x="60" y="780" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start">Los enlaces reales aparecen debajo de esta imagen en el README.</text>
+<text x="46" y="816" fill="#D2E6F6" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="400" text-anchor="start">LUICS415 // PROJECTS</text>
+</svg>
