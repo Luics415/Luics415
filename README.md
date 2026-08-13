@@ -1,11 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=luics415&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=luics415&theme=neon" alt="luics415 hero section" />
-  </picture>
-</p>
 
 # Luis Enrique Rivera Delgado
 
@@ -16,13 +10,6 @@ Construyo soluciones de software orientadas a problemas reales, con énfasis en 
 [![GitHub followers](https://img.shields.io/github/followers/Luics415?style=social)](https://github.com/Luics415)
 
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=luics415&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/chess?username=luics415&theme=neon" alt="luics415 chess replay section" />
-  </picture>
-</p>
 
 ---
 
@@ -58,13 +45,6 @@ Tengo experiencia en la creación y el mantenimiento de aplicaciones web, incluy
 | **Desarrollo** | Backend, web, Android, programación orientada a objetos |
 | **Herramientas** | Git, GitHub, Android Studio, MediaPipe, RPG Maker MV |
 | **Prácticas** | API REST, patrones de diseño, código limpio, documentación |
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Luics415&theme=neon" alt="Luics415 stack section" />
-  </picture>
-</p>
 
 ---
 
