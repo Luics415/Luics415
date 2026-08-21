@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-08-13",
+  "signal_date": "2026-08-21",
   "repositories_fetched": 24,
   "repositories_analyzed": 17,
   "language_repositories": [
@@ -24,12 +24,12 @@
   "language_bytes": {
     "Java": 0,
     "HTML": 106955,
-    "CSS": 676392,
+    "CSS": 735824,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
     "JavaScript": 821513,
-    "TypeScript": 1901057,
+    "TypeScript": 2159922,
     "C#": 44392,
     "Python": 28019,
     "PHP": 405879,
@@ -70,7 +70,7 @@
       "name": "Dev-Visualizer",
       "language": "TypeScript",
       "stars": 1,
-      "updated_at": "2026-08-13T19:08:06Z",
+      "updated_at": "2026-08-21T17:23:12Z",
       "url": "https://github.com/Luics415/Dev-Visualizer",
       "description": "Atlas visual para aprender arquitectura y conceptos de software."
     },
