@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 2.4% |
-| CSS | 16.7% |
+| HTML | 2.3% |
+| CSS | 16.1% |
 | C | 0.0% |
-| C++ | 0.7% |
+| C++ | 0.6% |
 | Sass | 0.8% |
-| JavaScript | 18.7% |
-| TypeScript | 49.1% |
+| JavaScript | 17.9% |
+| TypeScript | 47.2% |
 | C# | 1.0% |
 | Python | 0.6% |
-| PHP | 9.2% |
-| Kotlin | 0.7% |
+| PHP | 8.9% |
+| Kotlin | 4.7% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 24 repositorios
 públicos encontrados y 17 analizados
-para la señal. Corte: 2026-08-21.
+para la señal. Corte: 2026-08-24.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -109,8 +109,8 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
 - [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
+- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
 - [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo

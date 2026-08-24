@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-08-21",
+  "signal_date": "2026-08-24",
   "repositories_fetched": 24,
   "repositories_analyzed": 17,
   "language_repositories": [
@@ -33,7 +33,7 @@
     "C#": 44392,
     "Python": 28019,
     "PHP": 405879,
-    "Kotlin": 30312
+    "Kotlin": 213611
   },
   "language_repo_counts": {
     "Java": 0,
@@ -131,16 +131,16 @@
       "description": "Biblia, Rosario y oraciones con lector de voz accesible."
     },
     {
-      "name": "Bio-Gesture-Control-Pro",
-      "language": "Python",
-      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
-      "description": "Control de PC sin contacto mediante visión por computadora."
-    },
-    {
       "name": "Bio-Gesture-Control-Android",
       "language": "Kotlin",
       "url": "https://github.com/Luics415/Bio-Gesture-Control-Android",
       "description": "Control gestual experimental para Android con MediaPipe."
+    },
+    {
+      "name": "Bio-Gesture-Control-Pro",
+      "language": "Python",
+      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
+      "description": "Control de PC sin contacto mediante visión por computadora."
     },
     {
       "name": "Tlalne-Priority",
