@@ -1,8 +1,9 @@
 {
-  "signal_date": "2026-08-24",
-  "repositories_fetched": 24,
-  "repositories_analyzed": 17,
+  "signal_date": "2026-08-31",
+  "repositories_fetched": 25,
+  "repositories_analyzed": 18,
   "language_repositories": [
+    "AussieCare",
     "Bio-Gesture-Control-Android",
     "Bio-Gesture-Control-Pro",
     "break_the_glass",
@@ -24,12 +25,12 @@
   "language_bytes": {
     "Java": 0,
     "HTML": 106955,
-    "CSS": 735824,
+    "CSS": 904923,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
-    "JavaScript": 821513,
-    "TypeScript": 2159922,
+    "JavaScript": 844070,
+    "TypeScript": 2388999,
     "C#": 44392,
     "Python": 28019,
     "PHP": 405879,
@@ -38,12 +39,12 @@
   "language_repo_counts": {
     "Java": 0,
     "HTML": 10,
-    "CSS": 7,
+    "CSS": 8,
     "C": 0,
     "C++": 1,
     "Sass": 1,
-    "JavaScript": 11,
-    "TypeScript": 2,
+    "JavaScript": 12,
+    "TypeScript": 3,
     "C#": 1,
     "Python": 3,
     "PHP": 1,
@@ -141,6 +142,12 @@
       "language": "Python",
       "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
       "description": "Control de PC sin contacto mediante visión por computadora."
+    },
+    {
+      "name": "AussieCare",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/AussieCare",
+      "description": "PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano."
     },
     {
       "name": "Tlalne-Priority",

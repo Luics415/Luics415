@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 2.3% |
-| CSS | 16.1% |
+| HTML | 2.1% |
+| CSS | 18.1% |
 | C | 0.0% |
 | C++ | 0.6% |
-| Sass | 0.8% |
-| JavaScript | 17.9% |
-| TypeScript | 47.2% |
-| C# | 1.0% |
+| Sass | 0.7% |
+| JavaScript | 16.9% |
+| TypeScript | 47.8% |
+| C# | 0.9% |
 | Python | 0.6% |
-| PHP | 8.9% |
-| Kotlin | 4.7% |
+| PHP | 8.1% |
+| Kotlin | 4.3% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 24 repositorios
-públicos encontrados y 17 analizados
-para la señal. Corte: 2026-08-24.
+personal.** Catálogo: 25 repositorios
+públicos encontrados y 18 analizados
+para la señal. Corte: 2026-08-31.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 18 proyectos públicos elegibles</summary>
+<summary>Ver los 19 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
@@ -111,6 +111,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
 - [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
+- [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
 - [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo
