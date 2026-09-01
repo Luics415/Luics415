@@ -74,7 +74,7 @@ Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 25 repositorios
 públicos encontrados y 18 analizados
-para la señal. Corte: 2026-08-31.
+para la señal. Corte: 2026-09-01.
 </details>
 <!-- STACK-DATA:END -->
 
