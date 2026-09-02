@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-09-01",
+  "signal_date": "2026-09-02",
   "repositories_fetched": 25,
   "repositories_analyzed": 18,
   "language_repositories": [
@@ -55,7 +55,7 @@
       "name": "KASA-Service-Tracker",
       "language": "C#",
       "stars": 1,
-      "updated_at": "2026-08-13T02:07:13Z",
+      "updated_at": "2026-09-02T13:46:32Z",
       "url": "https://github.com/Luics415/KASA-Service-Tracker",
       "description": "Seguimiento de órdenes automotrices con .NET 8 y pruebas."
     },
@@ -63,7 +63,7 @@
       "name": "Tlalne-Priority",
       "language": "C++",
       "stars": 1,
-      "updated_at": "2026-08-13T05:56:21Z",
+      "updated_at": "2026-09-02T13:45:15Z",
       "url": "https://github.com/Luics415/Tlalne-Priority",
       "description": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
     },
@@ -108,16 +108,16 @@
       "description": "Atlas visual para aprender arquitectura y conceptos de software."
     },
     {
-      "name": "GX-Pets",
-      "language": "JavaScript",
-      "url": "https://github.com/Luics415/GX-Pets",
-      "description": "Motor de mascotas virtuales persistentes para Opera GX."
-    },
-    {
       "name": "KASA-Service-Tracker",
       "language": "C#",
       "url": "https://github.com/Luics415/KASA-Service-Tracker",
       "description": "Seguimiento de órdenes automotrices con .NET 8 y pruebas."
+    },
+    {
+      "name": "GX-Pets",
+      "language": "JavaScript",
+      "url": "https://github.com/Luics415/GX-Pets",
+      "description": "Motor de mascotas virtuales persistentes para Opera GX."
     },
     {
       "name": "sistema-becas",

@@ -74,7 +74,7 @@ Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 25 repositorios
 públicos encontrados y 18 analizados
-para la señal. Corte: 2026-09-01.
+para la señal. Corte: 2026-09-02.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -105,8 +105,8 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 <summary>Ver los 19 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
-- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
+- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
 - [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
