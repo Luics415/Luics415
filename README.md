@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 2.1% |
-| CSS | 18.1% |
+| HTML | 2.0% |
+| CSS | 16.6% |
 | C | 0.0% |
-| C++ | 0.6% |
+| C++ | 0.5% |
 | Sass | 0.7% |
-| JavaScript | 17.0% |
-| TypeScript | 47.7% |
-| C# | 0.9% |
-| Python | 0.6% |
-| PHP | 8.1% |
-| Kotlin | 4.3% |
+| JavaScript | 15.5% |
+| TypeScript | 43.6% |
+| C# | 0.8% |
+| Python | 9.0% |
+| PHP | 7.4% |
+| Kotlin | 3.9% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 25 repositorios
 públicos encontrados y 18 analizados
-para la señal. Corte: 2026-09-02.
+para la señal. Corte: 2026-09-08.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -95,7 +95,7 @@ para la señal. Corte: 2026-09-02.
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
 - [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
-- [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
+- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
 
 _La selección visual se regenera con metadatos públicos; los enlaces anteriores permanecen accesibles y clicables._
 <!-- PROJECT-LINKS:END -->
@@ -107,10 +107,10 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
 - [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
+- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
 - [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
 - [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante

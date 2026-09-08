@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-09-02",
+  "signal_date": "2026-09-08",
   "repositories_fetched": 25,
   "repositories_analyzed": 18,
   "language_repositories": [
@@ -32,7 +32,7 @@
     "JavaScript": 849857,
     "TypeScript": 2389577,
     "C#": 44392,
-    "Python": 28019,
+    "Python": 493946,
     "PHP": 405879,
     "Kotlin": 213611
   },
@@ -92,12 +92,12 @@
       "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
     },
     {
-      "name": "palabra-y-oracion",
-      "language": "JavaScript",
+      "name": "Bio-Gesture-Control-Pro",
+      "language": "Python",
       "stars": 1,
-      "updated_at": "2026-08-12T02:10:47Z",
-      "url": "https://github.com/Luics415/palabra-y-oracion",
-      "description": "Biblia, Rosario y oraciones con lector de voz accesible."
+      "updated_at": "2026-09-08T03:06:06Z",
+      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
+      "description": "Control de PC sin contacto mediante visión por computadora."
     }
   ],
   "all_projects": [
@@ -120,6 +120,12 @@
       "description": "Motor de mascotas virtuales persistentes para Opera GX."
     },
     {
+      "name": "Bio-Gesture-Control-Pro",
+      "language": "Python",
+      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
+      "description": "Control de PC sin contacto mediante visión por computadora."
+    },
+    {
       "name": "sistema-becas",
       "language": "PHP",
       "url": "https://github.com/Luics415/sistema-becas",
@@ -136,12 +142,6 @@
       "language": "Kotlin",
       "url": "https://github.com/Luics415/Bio-Gesture-Control-Android",
       "description": "Control gestual experimental para Android con MediaPipe."
-    },
-    {
-      "name": "Bio-Gesture-Control-Pro",
-      "language": "Python",
-      "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
-      "description": "Control de PC sin contacto mediante visión por computadora."
     },
     {
       "name": "AussieCare",
