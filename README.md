@@ -72,8 +72,8 @@ necesidades reales en software claro, confiable y mantenible.
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 25 repositorios
-públicos encontrados y 18 analizados
+personal.** Catálogo: 26 repositorios
+públicos encontrados y 19 analizados
 para la señal. Corte: 2026-09-08.
 </details>
 <!-- STACK-DATA:END -->
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 19 proyectos públicos elegibles</summary>
+<summary>Ver los 20 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
@@ -120,6 +120,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
 - [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
 - [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
 - [GX-Pets-Azlynn-Edition](https://github.com/Luics415/GX-Pets-Azlynn-Edition) — Proyecto de software documentado en GitHub.
 - [curriculum](https://github.com/Luics415/curriculum) — Actividad 13

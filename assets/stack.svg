@@ -18,7 +18,7 @@
 <text x="60" y="124" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" text-anchor="start">Stack Repository Signal</text>
 <text x="60" y="160" fill="#D2E6F6" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">Áreas, tecnologías y competencias</text>
 <rect x="54" y="210" width="792" height="82" rx="22" fill="#1E2E42" stroke="#E2F2FF" stroke-opacity=".90"/>
-<text x="153" y="246" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">18</text>
+<text x="153" y="246" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">19</text>
 <text x="153" y="274" fill="#00E7FF" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="600" text-anchor="middle">REPOS ANALIZADOS</text>
 <text x="351" y="246" fill="#FAFDFF" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">5.48 M</text>
 <text x="351" y="274" fill="#FF23C8" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="600" text-anchor="middle">BYTES LINGUIST</text>
