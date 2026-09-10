@@ -26,12 +26,12 @@
   "language_bytes": {
     "Java": 0,
     "HTML": 106955,
-    "CSS": 998098,
+    "CSS": 1008221,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
     "JavaScript": 850166,
-    "TypeScript": 2540462,
+    "TypeScript": 2544163,
     "C#": 44392,
     "Python": 493946,
     "PHP": 405879,
@@ -157,6 +157,12 @@
       "description": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
     },
     {
+      "name": "QRVoxelStudio",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/QRVoxelStudio",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
       "name": "stone-paper-and-scissors",
       "language": "JavaScript",
       "url": "https://github.com/Luics415/stone-paper-and-scissors",
@@ -179,12 +185,6 @@
       "language": "CSS",
       "url": "https://github.com/Luics415/Credit-Card",
       "description": "Un estilo para ocasiones que se requieren pagos web"
-    },
-    {
-      "name": "QRVoxelStudio",
-      "language": "TypeScript",
-      "url": "https://github.com/Luics415/QRVoxelStudio",
-      "description": "Proyecto de software documentado en GitHub."
     },
     {
       "name": "MenuGiratorio",

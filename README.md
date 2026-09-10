@@ -59,11 +59,11 @@ necesidades reales en software claro, confiable y mantenible.
 | --- | ---: |
 | Java | 0.0% |
 | HTML | 1.9% |
-| CSS | 17.5% |
+| CSS | 17.6% |
 | C | 0.0% |
 | C++ | 0.5% |
 | Sass | 0.6% |
-| JavaScript | 14.9% |
+| JavaScript | 14.8% |
 | TypeScript | 44.4% |
 | C# | 0.8% |
 | Python | 8.6% |
@@ -113,11 +113,11 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
 - [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
 - [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo
 - [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
 - [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
 - [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
 - [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
