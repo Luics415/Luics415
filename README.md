@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 2.0% |
-| CSS | 16.6% |
+| HTML | 1.9% |
+| CSS | 17.5% |
 | C | 0.0% |
 | C++ | 0.5% |
-| Sass | 0.7% |
-| JavaScript | 15.5% |
-| TypeScript | 43.6% |
+| Sass | 0.6% |
+| JavaScript | 14.9% |
+| TypeScript | 44.4% |
 | C# | 0.8% |
-| Python | 9.0% |
-| PHP | 7.4% |
-| Kotlin | 3.9% |
+| Python | 8.6% |
+| PHP | 7.1% |
+| Kotlin | 3.7% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 26 repositorios
 públicos encontrados y 19 analizados
-para la señal. Corte: 2026-09-08.
+para la señal. Corte: 2026-09-10.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -117,10 +117,10 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo
 - [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
 - [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
 - [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
 - [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
 - [GX-Pets-Azlynn-Edition](https://github.com/Luics415/GX-Pets-Azlynn-Edition) — Proyecto de software documentado en GitHub.
 - [curriculum](https://github.com/Luics415/curriculum) — Actividad 13
