@@ -72,9 +72,9 @@ necesidades reales en software claro, confiable y mantenible.
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 26 repositorios
-públicos encontrados y 19 analizados
-para la señal. Corte: 2026-09-10.
+personal.** Catálogo: 27 repositorios
+públicos encontrados y 20 analizados
+para la señal. Corte: 2026-09-12.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 20 proyectos públicos elegibles</summary>
+<summary>Ver los 21 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
@@ -112,10 +112,11 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
 - [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Proyecto de software documentado en GitHub.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
 - [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo
+- [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
 - [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
 - [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.

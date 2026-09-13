@@ -1,7 +1,7 @@
 {
-  "signal_date": "2026-09-10",
-  "repositories_fetched": 26,
-  "repositories_analyzed": 19,
+  "signal_date": "2026-09-12",
+  "repositories_fetched": 27,
+  "repositories_analyzed": 20,
   "language_repositories": [
     "AussieCare",
     "Bio-Gesture-Control-Android",
@@ -151,16 +151,16 @@
       "description": "PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano."
     },
     {
+      "name": "QRVoxelStudio",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/QRVoxelStudio",
+      "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
+    },
+    {
       "name": "Tlalne-Priority",
       "language": "C++",
       "url": "https://github.com/Luics415/Tlalne-Priority",
       "description": "Priorización de incidencias urbanas con C++20, CMake y pruebas."
-    },
-    {
-      "name": "QRVoxelStudio",
-      "language": "TypeScript",
-      "url": "https://github.com/Luics415/QRVoxelStudio",
-      "description": "Proyecto de software documentado en GitHub."
     },
     {
       "name": "stone-paper-and-scissors",
@@ -173,6 +173,12 @@
       "language": "JavaScript",
       "url": "https://github.com/Luics415/caso-final-estudio",
       "description": "Pipeline de Liberación y Despliegue Continuo"
+    },
+    {
+      "name": "MenuOrders",
+      "language": "Multi-stack",
+      "url": "https://github.com/Luics415/MenuOrders",
+      "description": "Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración."
     },
     {
       "name": "multipleWindow3dScene",
