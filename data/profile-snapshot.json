@@ -1,8 +1,9 @@
 {
-  "signal_date": "2026-09-12",
-  "repositories_fetched": 27,
-  "repositories_analyzed": 20,
+  "signal_date": "2026-09-18",
+  "repositories_fetched": 28,
+  "repositories_analyzed": 21,
   "language_repositories": [
+    "AnchorGrid",
     "AussieCare",
     "Bio-Gesture-Control-Android",
     "Bio-Gesture-Control-Pro",
@@ -25,13 +26,13 @@
   ],
   "language_bytes": {
     "Java": 0,
-    "HTML": 106955,
-    "CSS": 1008221,
+    "HTML": 108962,
+    "CSS": 1075165,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
-    "JavaScript": 850166,
-    "TypeScript": 2544225,
+    "JavaScript": 851798,
+    "TypeScript": 2639675,
     "C#": 44392,
     "Python": 493946,
     "PHP": 405879,
@@ -39,13 +40,13 @@
   },
   "language_repo_counts": {
     "Java": 0,
-    "HTML": 10,
-    "CSS": 9,
+    "HTML": 11,
+    "CSS": 10,
     "C": 0,
     "C++": 1,
     "Sass": 1,
-    "JavaScript": 13,
-    "TypeScript": 4,
+    "JavaScript": 14,
+    "TypeScript": 5,
     "C#": 1,
     "Python": 3,
     "PHP": 1,
@@ -202,6 +203,12 @@
       "name": "Cubo-Rubik",
       "language": "JavaScript",
       "url": "https://github.com/Luics415/Cubo-Rubik",
+      "description": "Proyecto de software documentado en GitHub."
+    },
+    {
+      "name": "AnchorGrid",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/AnchorGrid",
       "description": "Proyecto de software documentado en GitHub."
     },
     {

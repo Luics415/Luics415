@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 1.9% |
-| CSS | 17.6% |
+| HTML | 1.8% |
+| CSS | 18.2% |
 | C | 0.0% |
 | C++ | 0.5% |
 | Sass | 0.6% |
-| JavaScript | 14.8% |
-| TypeScript | 44.4% |
+| JavaScript | 14.4% |
+| TypeScript | 44.8% |
 | C# | 0.8% |
-| Python | 8.6% |
-| PHP | 7.1% |
-| Kotlin | 3.7% |
+| Python | 8.4% |
+| PHP | 6.9% |
+| Kotlin | 3.6% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 27 repositorios
-públicos encontrados y 20 analizados
-para la señal. Corte: 2026-09-12.
+personal.** Catálogo: 28 repositorios
+públicos encontrados y 21 analizados
+para la señal. Corte: 2026-09-18.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 21 proyectos públicos elegibles</summary>
+<summary>Ver los 22 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
@@ -121,6 +121,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
 - [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
+- [AnchorGrid](https://github.com/Luics415/AnchorGrid) — Proyecto de software documentado en GitHub.
 - [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
 - [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
 - [GX-Pets-Azlynn-Edition](https://github.com/Luics415/GX-Pets-Azlynn-Edition) — Proyecto de software documentado en GitHub.
