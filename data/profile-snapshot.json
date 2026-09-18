@@ -27,12 +27,12 @@
   "language_bytes": {
     "Java": 0,
     "HTML": 108962,
-    "CSS": 1128684,
+    "CSS": 1153632,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
-    "JavaScript": 851798,
-    "TypeScript": 2650294,
+    "JavaScript": 851877,
+    "TypeScript": 2733122,
     "C#": 44392,
     "Python": 493946,
     "PHP": 405879,
@@ -171,7 +171,7 @@
     },
     {
       "name": "AnchorGrid",
-      "language": "CSS",
+      "language": "TypeScript",
       "url": "https://github.com/Luics415/AnchorGrid",
       "description": "Proyecto de software documentado en GitHub."
     },
