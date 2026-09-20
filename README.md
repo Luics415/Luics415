@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 1.8% |
+| HTML | 1.7% |
 | CSS | 19.0% |
 | C | 0.0% |
 | C++ | 0.5% |
 | Sass | 0.6% |
 | JavaScript | 14.0% |
-| TypeScript | 45.0% |
+| TypeScript | 45.1% |
 | C# | 0.7% |
-| Python | 8.1% |
+| Python | 8.2% |
 | PHP | 6.7% |
 | Kotlin | 3.5% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 28 repositorios
-públicos encontrados y 21 analizados
-para la señal. Corte: 2026-09-18.
+personal.** Catálogo: 24 repositorios
+públicos encontrados y 19 analizados
+para la señal. Corte: 2026-09-20.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 22 proyectos públicos elegibles</summary>
+<summary>Ver los 19 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
@@ -112,20 +112,17 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
 - [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
+- [AnchorGrid](https://github.com/Luics415/AnchorGrid) — AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA.
 - [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
-- [AnchorGrid](https://github.com/Luics415/AnchorGrid) — Proyecto de software documentado en GitHub.
-- [caso-final-estudio](https://github.com/Luics415/caso-final-estudio) — Pipeline de Liberación y Despliegue Continuo
 - [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
 - [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
 - [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
 - [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
 - [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
 - [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
-- [GX-Pets-Azlynn-Edition](https://github.com/Luics415/GX-Pets-Azlynn-Edition) — Proyecto de software documentado en GitHub.
-- [curriculum](https://github.com/Luics415/curriculum) — Actividad 13
 
 _Esta lista se regenera automáticamente; excluye el repositorio del perfil, forks, repositorios archivados y copias configuradas._
 </details>
