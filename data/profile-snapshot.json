@@ -158,6 +158,12 @@
       "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
     },
     {
+      "name": "MenuOrders",
+      "language": "Multi-stack",
+      "url": "https://github.com/Luics415/MenuOrders",
+      "description": "Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración."
+    },
+    {
       "name": "Tlalne-Priority",
       "language": "C++",
       "url": "https://github.com/Luics415/Tlalne-Priority",
@@ -180,12 +186,6 @@
       "language": "JavaScript",
       "url": "https://github.com/Luics415/caso-final-estudio",
       "description": "Pipeline de Liberación y Despliegue Continuo"
-    },
-    {
-      "name": "MenuOrders",
-      "language": "Multi-stack",
-      "url": "https://github.com/Luics415/MenuOrders",
-      "description": "Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración."
     },
     {
       "name": "multipleWindow3dScene",
