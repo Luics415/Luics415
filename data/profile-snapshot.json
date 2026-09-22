@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-09-20",
+  "signal_date": "2026-09-22",
   "repositories_fetched": 24,
   "repositories_analyzed": 19,
   "language_repositories": [
@@ -25,12 +25,12 @@
   "language_bytes": {
     "Java": 0,
     "HTML": 103434,
-    "CSS": 1158984,
+    "CSS": 1182019,
     "C": 0,
     "C++": 28804,
     "Sass": 35703,
-    "JavaScript": 847501,
-    "TypeScript": 2813167,
+    "JavaScript": 847571,
+    "TypeScript": 2860723,
     "C#": 44392,
     "Python": 493946,
     "PHP": 405879,
@@ -150,6 +150,12 @@
       "description": "PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano."
     },
     {
+      "name": "QRVoxelStudio",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/QRVoxelStudio",
+      "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
+    },
+    {
       "name": "AnchorGrid",
       "language": "TypeScript",
       "url": "https://github.com/Luics415/AnchorGrid",
@@ -160,12 +166,6 @@
       "language": "Multi-stack",
       "url": "https://github.com/Luics415/MenuOrders",
       "description": "Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración."
-    },
-    {
-      "name": "QRVoxelStudio",
-      "language": "TypeScript",
-      "url": "https://github.com/Luics415/QRVoxelStudio",
-      "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
     },
     {
       "name": "Tlalne-Priority",
