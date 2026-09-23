@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 1.7% |
+| HTML | 1.6% |
 | CSS | 19.0% |
 | C | 0.0% |
-| C++ | 0.5% |
+| C++ | 0.4% |
 | Sass | 0.6% |
-| JavaScript | 13.6% |
-| TypeScript | 46.0% |
+| JavaScript | 13.2% |
+| TypeScript | 47.3% |
 | C# | 0.7% |
-| Python | 7.9% |
-| PHP | 6.5% |
-| Kotlin | 3.4% |
+| Python | 7.7% |
+| PHP | 6.3% |
+| Kotlin | 3.3% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 24 repositorios
 públicos encontrados y 19 analizados
-para la señal. Corte: 2026-09-22.
+para la señal. Corte: 2026-09-23.
 </details>
 <!-- STACK-DATA:END -->
 
