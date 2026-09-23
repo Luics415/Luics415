@@ -63,8 +63,8 @@ necesidades reales en software claro, confiable y mantenible.
 | C | 0.0% |
 | C++ | 0.4% |
 | Sass | 0.5% |
-| JavaScript | 12.5% |
-| TypeScript | 50.5% |
+| JavaScript | 12.7% |
+| TypeScript | 50.3% |
 | C# | 0.6% |
 | Python | 7.2% |
 | PHP | 5.9% |
