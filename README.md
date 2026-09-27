@@ -59,15 +59,15 @@ necesidades reales en software claro, confiable y mantenible.
 | --- | ---: |
 | Java | 0.0% |
 | HTML | 1.5% |
-| CSS | 18.0% |
+| CSS | 17.9% |
 | C | 0.0% |
 | C++ | 0.4% |
 | Sass | 0.5% |
 | JavaScript | 12.6% |
-| TypeScript | 50.2% |
+| TypeScript | 50.4% |
 | C# | 0.6% |
 | Python | 7.1% |
-| PHP | 5.9% |
+| PHP | 5.8% |
 | Kotlin | 3.1% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
