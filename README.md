@@ -1,185 +1,57 @@
+# 👋 ¡Hola! Soy Luics415
+
 <p align="center">
-  <picture>
-    <source srcset="./assets/hero.gif" type="image/gif" />
-    <img src="./assets/hero.svg" alt="Luis Enrique Rivera Delgado, desarrollador de software y backend" width="900" />
-  </picture>
+  <b>Desarrollador Software & Creador de Experiencias Interactivas, Móviles y Visuales</b><br>
+  <i>Apasionado por la animación 3D en la web, visión por computadora, desarrollo móvil y arquitectura de software comercial.</i>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+---
+
+## 🌟 Proyectos Destacados
 
 <div align="center">
 
-
-Construyo soluciones de software orientadas a problemas reales, con énfasis en
-arquitectura limpia, calidad de código y aprendizaje continuo.
-
-[Explorar mis repositorios](https://github.com/Luics415?tab=repositories)
-
-</div>
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/chess.gif" type="image/gif" />
-    <img src="./assets/chess.svg" alt="Secuencias de Mate del Pastor, Apertura Bird y Defensa Caro-Kann" width="900" />
-  </picture>
-</p>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy desarrollador de software y estudiante de **Ingeniería en Desarrollo y
-Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**.
-
-Tengo experiencia en la creación y el mantenimiento de aplicaciones web,
-incluyendo sistemas para servicios de gobierno digital. Me interesa comprender
-cómo funcionan los sistemas, diseñar soluciones escalables y convertir
-necesidades reales en software claro, confiable y mantenible.
-
-- 🎓 **Formación:** Ingeniería en Desarrollo y Gestión de Software
-- 🏫 **Universidad:** Universidad Tecnológica Fidel Velázquez
-- 🎂 **Edad:** 23 años
-- 📍 **Ubicación:** Atizapán, México
-- 💡 **Intereses:** backend, arquitectura de software y visión por computadora
-
----
-
-## 🚀 Competencias
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/stack.gif" type="image/gif" />
-    <img src="./assets/stack.svg" alt="Stack Repository Signal: áreas, tecnologías y competencias con doce porcentajes" width="900" />
-  </picture>
-</p>
-
-<!-- STACK-DATA:START -->
-<details>
-<summary>Datos y metodología de la señal</summary>
-
-| Tecnología | Señal de repositorios |
-| --- | ---: |
-| Java | 0.0% |
-| HTML | 1.5% |
-| CSS | 17.8% |
-| C | 0.0% |
-| C++ | 0.4% |
-| Sass | 0.5% |
-| JavaScript | 12.7% |
-| TypeScript | 50.3% |
-| C# | 0.6% |
-| Python | 7.2% |
-| PHP | 5.9% |
-| Kotlin | 3.1% |
-
-Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
-originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 24 repositorios
-públicos encontrados y 19 analizados
-para la señal. Corte: 2026-09-23.
-</details>
-<!-- STACK-DATA:END -->
-
----
-
-## ⭐ Proyectos destacados
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/projects.gif" type="image/gif" />
-    <img src="./assets/projects.svg" alt="Seis proyectos de software destacados con tecnología y actividad" width="900" />
-  </picture>
-</p>
-
-<!-- PROJECT-LINKS:START -->
-- [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
-- [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
-- [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
-- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
-- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
-
-_La selección visual se regenera con metadatos públicos; los enlaces anteriores permanecen accesibles y clicables._
-<!-- PROJECT-LINKS:END -->
-
-<!-- ALL-PROJECTS:START -->
-<details>
-<summary>Ver los 19 proyectos públicos elegibles</summary>
-
-- [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
-- [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
-- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
-- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
-- [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
-- [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
-- [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
-- [AnchorGrid](https://github.com/Luics415/AnchorGrid) — AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA.
-- [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
-- [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
-- [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
-- [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
-- [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
-- [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
-- [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
-- [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
-- [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
-
-_Esta lista se regenera automáticamente; excluye el repositorio del perfil, forks, repositorios archivados y copias configuradas._
-</details>
-<!-- ALL-PROJECTS:END -->
-
----
-
-## 📈 Enfoque actual
-
-Actualmente continúo fortaleciendo mis conocimientos en:
-
-- Desarrollo backend y ecosistema Java.
-- Arquitectura de software y API REST.
-- Patrones de diseño, pruebas y código limpio.
-- Documentación técnica.
-- Visión por computadora con Python.
-
----
-
-## 🎯 Objetivo profesional
-
-Busco oportunidades para contribuir como desarrollador de software y continuar
-creciendo en desarrollo backend e ingeniería de software. Me motivan los
-proyectos que exigen resolver problemas complejos, aprender nuevas tecnologías
-y crear productos con impacto real.
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/social.gif" type="image/gif" />
-    <img src="./assets/social.svg" alt="Contacto por GitHub y WhatsApp; ubicación en Atizapán, México" width="900" />
-  </picture>
-</p>
-
-<div align="center">
-
-### Luis Enrique Rivera Delgado
-
-**Desarrollador de Software · Backend**
-
-[GitHub](https://github.com/Luics415) ·
-[WhatsApp: (55) 6152 5238](https://wa.me/525561525238) ·
-**Atizapán, México**
-
-Disponible para colaborar en proyectos de desarrollo de software y nuevas
-oportunidades profesionales.
+| Proyecto | Descripción | Stack | Repositorio |
+| :--- | :--- | :--- | :--- |
+| **💡 Dev-Visualizer** | Biblioteca educativa que transforma conceptos técnicos en explicaciones visuales autónomas e interactivas. | `TypeScript` `Web` | [Ver Proyecto](https://github.com/Luics415/Dev-Visualizer) |
+| **🍽️ MenuOrders** | Plataforma white-label de servicio de mesas y gestión de comandas para restaurantes, cocina y administración. | `TypeScript` `C#` `Full-stack` | [Ver Proyecto](https://github.com/Luics415/MenuOrders) |
+| **🧊 QRVoxelStudio** | Herramienta para generar códigos QR estilizados en 3D voxel con ambientaciones personalizadas. | `TypeScript` `3D` `Voxel` | [Ver Proyecto](https://github.com/Luics415/QRVoxelStudio) |
+| **⚔️ AnchorGrid** | Juego de estrategia por turnos mobile-first, diseñado para partidas online, locales o contra IA. | `TypeScript` `Cross-platform` | [Ver Proyecto](https://github.com/Luics415/AnchorGrid) |
+| **🖐️ Bio-Gesture Control** | Suite de control de Windows y Android mediante gestos de mano en tiempo real (100% local). | `Python` `Kotlin` `MediaPipe` | [Ver Código](https://github.com/Luics415/Bio-Gesture-Control-Pro) |
 
 </div>
 
 ---
 
-<div align="center">
+## 🗺️ Roadmap de Proyectos & Estado Activo
 
-*“El software va más allá de escribir código: consiste en comprender problemas
-y construir soluciones confiables.”*
+Puedes seguir el estado en tiempo real de mis desarrollos y próximos lanzamientos en mis **GitHub Projects públicos**:
 
-</div>
+* 📌 **[Dev-Visualizer Ecosystem](https://github.com/Luics415?tab=projects)**: Roadmap de extensiones, componentes interactivos y visualizadores de algoritmos.
+* 📌 **[MenuOrders Suite Roadmap](https://github.com/Luics415?tab=projects)**: Módulos de comandería, integración con pos/impresoras y arquitectura comercial.
+* 📌 **[Luics415 Portfolio & Personal Labs](https://github.com/Luics415?tab=projects)**: Colección general de experimentos 3D, IA local y nuevos desarrollos.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luics415&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Luics415" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luics415&layout=compact&theme=radical&hide=html,css" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 📫 ¡Conectemos!
+
+- 🌐 **Sitio Web / Portafolio:** [Luics415.github.io](https://Luics415.github.io)
+- 🐙 **GitHub:** [@Luics415](https://github.com/Luics415)
