@@ -1,5 +1,5 @@
 {
-  "signal_date": "2026-09-29",
+  "signal_date": "2026-10-01",
   "repositories_fetched": 24,
   "repositories_analyzed": 19,
   "language_repositories": [
@@ -71,7 +71,7 @@
       "name": "Dev-Visualizer",
       "language": "TypeScript",
       "stars": 1,
-      "updated_at": "2026-09-27T22:53:34Z",
+      "updated_at": "2026-10-01T21:07:53Z",
       "url": "https://github.com/Luics415/Dev-Visualizer",
       "description": "Atlas visual para aprender arquitectura y conceptos de software."
     },
@@ -84,20 +84,20 @@
       "description": "Motor de mascotas virtuales persistentes para Opera GX."
     },
     {
-      "name": "sistema-becas",
-      "language": "PHP",
-      "stars": 1,
-      "updated_at": "2026-07-23T19:11:11Z",
-      "url": "https://github.com/Luics415/sistema-becas",
-      "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
-    },
-    {
       "name": "Bio-Gesture-Control-Pro",
       "language": "Python",
       "stars": 1,
       "updated_at": "2026-09-29T05:03:16Z",
       "url": "https://github.com/Luics415/Bio-Gesture-Control-Pro",
       "description": "Control de PC sin contacto mediante visión por computadora."
+    },
+    {
+      "name": "palabra-y-oracion",
+      "language": "JavaScript",
+      "stars": 1,
+      "updated_at": "2026-10-01T21:09:08Z",
+      "url": "https://github.com/Luics415/palabra-y-oracion",
+      "description": "Biblia, Rosario y oraciones con lector de voz accesible."
     }
   ],
   "all_projects": [
@@ -126,16 +126,16 @@
       "description": "Control de PC sin contacto mediante visión por computadora."
     },
     {
-      "name": "sistema-becas",
-      "language": "PHP",
-      "url": "https://github.com/Luics415/sistema-becas",
-      "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
-    },
-    {
       "name": "palabra-y-oracion",
       "language": "JavaScript",
       "url": "https://github.com/Luics415/palabra-y-oracion",
       "description": "Biblia, Rosario y oraciones con lector de voz accesible."
+    },
+    {
+      "name": "sistema-becas",
+      "language": "PHP",
+      "url": "https://github.com/Luics415/sistema-becas",
+      "description": "Gestión MVC de becas con PHP, PDO y MySQL/MariaDB."
     },
     {
       "name": "Bio-Gesture-Control-Android",
@@ -150,16 +150,16 @@
       "description": "PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano."
     },
     {
-      "name": "QRVoxelStudio",
-      "language": "TypeScript",
-      "url": "https://github.com/Luics415/QRVoxelStudio",
-      "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
-    },
-    {
       "name": "AnchorGrid",
       "language": "TypeScript",
       "url": "https://github.com/Luics415/AnchorGrid",
       "description": "AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA."
+    },
+    {
+      "name": "QRVoxelStudio",
+      "language": "TypeScript",
+      "url": "https://github.com/Luics415/QRVoxelStudio",
+      "description": "Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos."
     },
     {
       "name": "MenuOrders",

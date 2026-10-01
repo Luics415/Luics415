@@ -74,7 +74,7 @@ Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
 personal.** Catálogo: 24 repositorios
 públicos encontrados y 19 analizados
-para la señal. Corte: 2026-09-29.
+para la señal. Corte: 2026-10-01.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -94,8 +94,8 @@ para la señal. Corte: 2026-09-29.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
-- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
+- [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
 
 _La selección visual se regenera con metadatos públicos; los enlaces anteriores permanecen accesibles y clicables._
 <!-- PROJECT-LINKS:END -->
@@ -108,12 +108,12 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
 - [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
 - [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
-- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
+- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
 - [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
 - [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
 - [AnchorGrid](https://github.com/Luics415/AnchorGrid) — AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA.
+- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
 - [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
