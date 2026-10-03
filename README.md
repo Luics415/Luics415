@@ -58,23 +58,23 @@ necesidades reales en software claro, confiable y mantenible.
 | Tecnología | Señal de repositorios |
 | --- | ---: |
 | Java | 0.0% |
-| HTML | 1.5% |
-| CSS | 17.9% |
+| HTML | 1.1% |
+| CSS | 13.6% |
 | C | 0.0% |
-| C++ | 0.4% |
-| Sass | 0.5% |
-| JavaScript | 12.6% |
-| TypeScript | 50.4% |
-| C# | 0.6% |
-| Python | 7.1% |
-| PHP | 5.8% |
-| Kotlin | 3.1% |
+| C++ | 0.3% |
+| Sass | 0.4% |
+| JavaScript | 9.5% |
+| TypeScript | 47.8% |
+| C# | 0.5% |
+| Python | 7.3% |
+| PHP | 4.4% |
+| Kotlin | 15.1% |
 
 Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
 originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 24 repositorios
-públicos encontrados y 19 analizados
-para la señal. Corte: 2026-10-01.
+personal.** Catálogo: 25 repositorios
+públicos encontrados y 20 analizados
+para la señal. Corte: 2026-10-03.
 </details>
 <!-- STACK-DATA:END -->
 
@@ -102,7 +102,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 
 <!-- ALL-PROJECTS:START -->
 <details>
-<summary>Ver los 19 proyectos públicos elegibles</summary>
+<summary>Ver los 20 proyectos públicos elegibles</summary>
 
 - [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
 - [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
@@ -115,6 +115,7 @@ _La selección visual se regenera con metadatos públicos; los enlaces anteriore
 - [AnchorGrid](https://github.com/Luics415/AnchorGrid) — AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA.
 - [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
 - [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
+- [Ancla](https://github.com/Luics415/Ancla) — AI local android
 - [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
 - [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
 - [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
