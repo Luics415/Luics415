@@ -1,186 +1,170 @@
-<p align="center">
-  <picture>
-    <source srcset="./assets/hero.gif" type="image/gif" />
-    <img src="./assets/hero.svg" alt="Luis Enrique Rivera Delgado, desarrollador de software y backend" width="900" />
-  </picture>
-</p>
-
 <div align="center">
 
-
-Construyo soluciones de software orientadas a problemas reales, con énfasis en
-arquitectura limpia, calidad de código y aprendizaje continuo.
-
-[Explorar mis repositorios](https://github.com/Luics415?tab=repositories)
-
-</div>
+<!-- HERO TYPING ANIMATION -->
+<a href="https://luics415.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&height=70&lines=Luis+Enrique+Rivera+Delgado;Software+Engineer+%26+Backend+Architect;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Computer+Vision+%26+Edge+AI+Enthusiast" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <picture>
-    <source srcset="./assets/chess.gif" type="image/gif" />
-    <img src="./assets/chess.svg" alt="Secuencias de Mate del Pastor, Apertura Bird y Defensa Caro-Kann" width="900" />
-  </picture>
+  <b>Construyendo arquitecturas limpias, interfaces cinematográficas e inteligencia artificial en el borde.</b>
 </p>
 
----
-
-## 👨‍💻 Sobre mí
-
-Soy desarrollador de software y estudiante de **Ingeniería en Desarrollo y
-Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**.
-
-Tengo experiencia en la creación y el mantenimiento de aplicaciones web,
-incluyendo sistemas para servicios de gobierno digital. Me interesa comprender
-cómo funcionan los sistemas, diseñar soluciones escalables y convertir
-necesidades reales en software claro, confiable y mantenible.
-
-- 🎓 **Formación:** Ingeniería en Desarrollo y Gestión de Software
-- 🏫 **Universidad:** Universidad Tecnológica Fidel Velázquez
-- 🎂 **Edad:** 23 años
-- 📍 **Ubicación:** Atizapán, México
-- 💡 **Intereses:** backend, arquitectura de software y visión por computadora
-
----
-
-## 🚀 Competencias
-
+<!-- STATUS PILLS / BADGES DINÁMICOS -->
 <p align="center">
-  <picture>
-    <source srcset="./assets/stack.gif" type="image/gif" />
-    <img src="./assets/stack.svg" alt="Stack Repository Signal: áreas, tecnologías y competencias con doce porcentajes" width="900" />
-  </picture>
+  <img src="https://img.shields.io/badge/Status-Building_%26_Architecting-00f2fe?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Atizapán,_México-4facfe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
 </p>
 
-<!-- STACK-DATA:START -->
-<details>
-<summary>Datos y metodología de la señal</summary>
-
-| Tecnología | Señal de repositorios |
-| --- | ---: |
-| Java | 0.0% |
-| HTML | 1.1% |
-| CSS | 13.6% |
-| C | 0.0% |
-| C++ | 0.3% |
-| Sass | 0.4% |
-| JavaScript | 9.5% |
-| TypeScript | 47.8% |
-| C# | 0.5% |
-| Python | 7.3% |
-| PHP | 4.4% |
-| Kotlin | 15.1% |
-
-Calculado con bytes informados por GitHub Linguist sobre repositorios públicos
-originales, sin forks ni copias conocidas. **No representa nivel de dominio
-personal.** Catálogo: 25 repositorios
-públicos encontrados y 20 analizados
-para la señal. Corte: 2026-10-03.
-</details>
-<!-- STACK-DATA:END -->
-
----
-
-## ⭐ Proyectos destacados
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/projects.gif" type="image/gif" />
-    <img src="./assets/projects.svg" alt="Seis proyectos de software destacados con tecnología y actividad" width="900" />
-  </picture>
-</p>
-
-<!-- PROJECT-LINKS:START -->
-- [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
-- [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
-- [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
-- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
-- [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
-
-_La selección visual se regenera con metadatos públicos; los enlaces anteriores permanecen accesibles y clicables._
-<!-- PROJECT-LINKS:END -->
-
-<!-- ALL-PROJECTS:START -->
-<details>
-<summary>Ver los 20 proyectos públicos elegibles</summary>
-
-- [Dev-Visualizer](https://github.com/Luics415/Dev-Visualizer) — Atlas visual para aprender arquitectura y conceptos de software.
-- [KASA-Service-Tracker](https://github.com/Luics415/KASA-Service-Tracker) — Seguimiento de órdenes automotrices con .NET 8 y pruebas.
-- [GX-Pets](https://github.com/Luics415/GX-Pets) — Motor de mascotas virtuales persistentes para Opera GX.
-- [Bio-Gesture-Control-Pro](https://github.com/Luics415/Bio-Gesture-Control-Pro) — Control de PC sin contacto mediante visión por computadora.
-- [palabra-y-oracion](https://github.com/Luics415/palabra-y-oracion) — Biblia, Rosario y oraciones con lector de voz accesible.
-- [sistema-becas](https://github.com/Luics415/sistema-becas) — Gestión MVC de becas con PHP, PDO y MySQL/MariaDB.
-- [Bio-Gesture-Control-Android](https://github.com/Luics415/Bio-Gesture-Control-Android) — Control gestual experimental para Android con MediaPipe.
-- [AussieCare](https://github.com/Luics415/AussieCare) — PWA cinematográfica, mobile-first y offline para aprender cuidados responsables del periquito australiano.
-- [AnchorGrid](https://github.com/Luics415/AnchorGrid) — AnchorGrid es un juego de estrategia por turnos, mobile-first y multiplataforma, diseñado para jugar online con amigos, localmente o contra IA.
-- [QRVoxelStudio](https://github.com/Luics415/QRVoxelStudio) — Herramienta centrada en darle una ambientación visual a tus QR y poder compartirlos.
-- [MenuOrders](https://github.com/Luics415/MenuOrders) — Plataforma white-label de servicio de mesas y gestión de comandas para meseros, cocina y administración.
-- [Ancla](https://github.com/Luics415/Ancla) — AI local android
-- [Tlalne-Priority](https://github.com/Luics415/Tlalne-Priority) — Priorización de incidencias urbanas con C++20, CMake y pruebas.
-- [stone-paper-and-scissors](https://github.com/Luics415/stone-paper-and-scissors) — Juego de Piedra Papel o Tijeras, pero mas emocionante
-- [multipleWindow3dScene](https://github.com/Luics415/multipleWindow3dScene) — Aplicación crea una escena 3D con partículas animadas, controles de cámara orbital y un efecto visual que cambia según el nivel de audio capturado por el navegador.
-- [Credit-Card](https://github.com/Luics415/Credit-Card) — Un estilo para ocasiones que se requieren pagos web
-- [MenuGiratorio](https://github.com/Luics415/MenuGiratorio) — Menú giratorio con iconos, donde al presionar el botón central se despliegan las opciones alrededor del círculo y se resalta la opción seleccionada.
-- [Cubo-Rubik](https://github.com/Luics415/Cubo-Rubik) — Proyecto de software documentado en GitHub.
-- [break_the_glass](https://github.com/Luics415/break_the_glass) — Proyecto de software documentado en GitHub.
-- [gatitos-app](https://github.com/Luics415/gatitos-app) — Proyecto de software documentado en GitHub.
-
-_Esta lista se regenera automáticamente; excluye el repositorio del perfil, forks, repositorios archivados y copias configuradas._
-</details>
-<!-- ALL-PROJECTS:END -->
-
----
-
-## 📈 Enfoque actual
-
-Actualmente continúo fortaleciendo mis conocimientos en:
-
-- Desarrollo backend y ecosistema Java.
-- Arquitectura de software y API REST.
-- Patrones de diseño, pruebas y código limpio.
-- Documentación técnica.
-- Visión por computadora con Python.
-
----
-
-## 🎯 Objetivo profesional
-
-Busco oportunidades para contribuir como desarrollador de software y continuar
-creciendo en desarrollo backend e ingeniería de software. Me motivan los
-proyectos que exigen resolver problemas complejos, aprender nuevas tecnologías
-y crear productos con impacto real.
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <picture>
-    <source srcset="./assets/social.gif" type="image/gif" />
-    <img src="./assets/social.svg" alt="Contacto por GitHub y WhatsApp; ubicación en Atizapán, México" width="900" />
-  </picture>
-</p>
-
-<div align="center">
-
-### Luis Enrique Rivera Delgado
-
-**Desarrollador de Software · Backend**
-
-[GitHub](https://github.com/Luics415) ·
-[WhatsApp: (55) 6152 5238](https://wa.me/525561525238) ·
-**Atizapán, México**
-
-Disponible para colaborar en proyectos de desarrollo de software y nuevas
-oportunidades profesionales.
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24&height=100&section=header" width="100%" />
 
 </div>
 
 ---
 
+## ⚡ Conectemos & Contacto Directo
+
 <div align="center">
+  <p>¿Tienes un proyecto en mente, una oportunidad técnica o deseas colaborar? Escríbeme directamente:</p>
 
-*“El software va más allá de escribir código: consiste en comprender problemas
-y construir soluciones confiables.”*
+  <a href="https://wa.me/525561525238" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-(55)_6152_5238-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b141a" alt="WhatsApp" height="38"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luis-enrique-rivera-delgado-181871387" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis_Enrique_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08162b" alt="LinkedIn" height="38"/>
+  </a>
+  &nbsp;
+  <a href="mailto:22302197@utfv.edu.mx" target="_blank">
+    <img src="https://img.shields.io/badge/Email-22302197@utfv.edu.mx-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b0b" alt="Email" height="38"/>
+  </a>
+  <br/><br/>
+  <a href="https://luics415.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-luics415.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08182b" alt="Portfolio" height="38"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/luics415" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@luics415-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1c0a12" alt="Instagram" height="38"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Luics415" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Luics415-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=161b22" alt="GitHub" height="38"/>
+  </a>
+</div>
 
+---
+
+## 🧭 Sobre Mí & Filosofía de Ingeniería
+
+```yaml
+desarrollador: "Luis Enrique Rivera Delgado"
+rol: "Software Engineer & Systems Architect"
+institución: "Universidad Tecnológica Fidel Velázquez (UTFV)"
+enfoque:
+  - "Arquitectura desacoplada, alta concurrencia y clean code"
+  - "Visión artificial y Edge AI (MediaPipe, inferencia local)"
+  - "Sistemas web distribuidos y PWAs offline-first"
+metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
+```
+
+> *"No me limito a hacer que las cosas funcionen: diseño el software para que sea predecible, auditable y escalable ante fallos."*
+
+---
+
+## 🚀 Proyectos Destacados del Ecosistema
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Luics415/Ancla">Ancla — Local AI Assistant</a></h3>
+      <p>Asistente de inteligencia artificial local para Android desarrollado en <b>Kotlin</b>. Inferencia privada on-device sin dependencia de nubes externas ni fugas de privacidad.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Edge_AI-Local_LLM-00b4d8?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Luics415/Dev-Visualizer">Dev-Visualizer — Visual Atlas</a></h3>
+      <p>Biblioteca interactiva en <b>TypeScript</b> que transforma conceptos de ingeniería complejos en representaciones visuales autónomas y didácticas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-Architecture-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docs-Interactive-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧊 <a href="https://github.com/Luics415/QRVoxelStudio">QRVoxelStudio — 3D QR Engine</a></h3>
+      <p>Plataforma para dar ambientación visual y dimensión 3D basada en vóxeles a códigos QR estándar, renderizada con WebGL en tiempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-WebGL-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/3D-Voxel_Art-blueviolet?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦜 <a href="https://github.com/Luics415/AussieCare">AussieCare — PWA Cinematográfica</a></h3>
+      <p>PWA offline-first, mobile-first con UI cinematográfica para guiar el cuidado responsable de periquitos australianos con accesibilidad rigurosa.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-PWA-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Offline--First-WCAG_AAA-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖐️ <a href="https://github.com/Luics415/Bio-Gesture-Control-Pro">Bio-Gesture Control Pro</a></h3>
+      <p>Control del sistema operativo Windows mediante reconocimiento de gestos manuales con <b>MediaPipe</b> y <b>Python</b>, procesado localmente en tiempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-OpenCV-yellow?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Computer_Vision-MediaPipe-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚔️ <a href="https://github.com/Luics415/AnchorGrid">AnchorGrid — Tactical Turn Game</a></h3>
+      <p>Juego de estrategia por turnos, multiplataforma y mobile-first con soporte para partidas multijugador online, local y motor de IA contrincante.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-Game_Dev-critical?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Engine-Multiplayer-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológico Dinámico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,python,cs,cpp,php,html,css,react,nextjs,tailwind,nodejs,git,github,androidstudio,linux&perline=9" alt="Stack Icons" />
+</p>
+
+---
+
+## 📈 Métricas de Actividad en Vivo
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Luics415&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="410" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luics415&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="410" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luics415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="410" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,1&height=90&section=footer" width="100%" />
+  <p><sub>⚡ Diseñado con dedicación técnica y precisión por <b>Luis Enrique Rivera Delgado (Luics415)</b>.</sub></p>
 </div>
