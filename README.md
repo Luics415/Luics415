@@ -1,9 +1,19 @@
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
 <div align="center">
 
 <!-- HERO TYPING ANIMATION -->
 <a href="https://luics415.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&height=70&lines=Luis+Enrique+Rivera+Delgado;Software+Engineer+%26+Backend+Architect;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Computer+Vision+%26+Edge+AI+Enthusiast" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+</div>
 
 <p align="center">
   <b>Construyendo arquitecturas limpias, interfaces cinematográficas e inteligencia artificial en el borde.</b>
@@ -15,9 +25,6 @@
   <img src="https://img.shields.io/badge/Location-Atizapán,_México-4facfe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
   <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
 </p>
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24&height=100&section=header" width="100%" />
 
 </div>
 
@@ -139,27 +146,57 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 
 ## 🛠️ Stack Tecnológico Dinámico
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,kotlin,python,cs,cpp,php,html,css,react,nextjs,tailwind,nodejs,git,github,androidstudio,linux&perline=9" alt="Stack Icons" />
 </p>
 
 ---
 
-## 📈 Métricas de Actividad en Vivo
+## 🕹️ Actividad & Contribuciones Arcade
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Luics415&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luics415&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="410" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luics415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="410" alt="Top Languages" />
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<br/><br/>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 📈 Métricas de Actividad en Vivo
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Luics415/Luics415/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Luics415/Luics415/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Luics415">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luics415&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
+  </a>
 </div>
 
 ---
