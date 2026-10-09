@@ -11,9 +11,7 @@
 
 <br/>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
-</div>
+<img data-importer="image" align="right" height="205" src="https://i.pinimg.com/originals/01/48/27/014827e6459bcdd4eb4ffe5c066481a5.gif" />
 
 <p align="center">
   <b>Construyendo arquitecturas limpias, interfaces cinematográficas e inteligencia artificial en el borde.</b>
@@ -25,6 +23,8 @@
   <img src="https://img.shields.io/badge/Location-Atizapán,_México-4facfe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
   <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
 </p>
+
+<br clear="both"/>
 
 </div>
 
