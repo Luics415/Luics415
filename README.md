@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_%26_Architecting-00f2fe?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Atizapán,_México-4facfe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
+  <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Y_Gestion_De_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
 </p>
 
 <br clear="both"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ Conectemos & Contacto Directo
+##  Conectemos & Contacto Directo
 
 <div align="center">
   <p>¿Tienes un proyecto en mente, una oportunidad técnica o deseas colaborar? Escríbeme directamente:</p>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🧭 Sobre Mí & Filosofía de Ingeniería
+##  Sobre Mí & Filosofía de Ingeniería
 
 ```yaml
 desarrollador: "Luis Enrique Rivera Delgado"
@@ -79,7 +79,7 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 
 ---
 
-## 🚀 Proyectos Destacados del Ecosistema
+##  Proyectos Destacados del Ecosistema
 
 <table>
   <tr>
@@ -144,19 +144,7 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 
 ---
 
-## 🛠️ Stack Tecnológico Dinámico
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+##  Stack Tecnológico Dinámico
 
 <br/>
 
@@ -166,7 +154,7 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 
 ---
 
-## 🕹️ Actividad & Contribuciones Arcade
+##  Actividad & Contribuciones Arcade
 
 <div align="center">
 
@@ -176,15 +164,11 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<br/><br/>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
-## 📈 Métricas de Actividad en Vivo
+##  Métricas de Actividad en Vivo
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Luics415/Luics415/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -201,5 +185,10 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,1&height=90&section=footer" width="100%" />
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
+
+</div>
+  
   <p><sub>⚡ Diseñado con dedicación técnica y precisión por <b>Luis Enrique Rivera Delgado (Luics415)</b>.</sub></p>
 </div>
