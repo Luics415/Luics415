@@ -152,6 +152,10 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
   <img src="https://skillicons.dev/icons?i=ts,js,kotlin,python,cs,cpp,php,html,css,react,nextjs,tailwind,nodejs,git,github,androidstudio,linux&perline=9" alt="Stack Icons" />
 </p>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Luics415/Luics415/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 ##  Actividad & Contribuciones Arcade
@@ -169,11 +173,6 @@ metodología: "Pragmática, orientada a rendimiento y fiabilidad absoluta"
 ---
 
 ##  Métricas de Actividad en Vivo
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Luics415/Luics415/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 
 <div align="center">
   <a href="https://github.com/Luics415">
