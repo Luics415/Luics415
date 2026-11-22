@@ -115,7 +115,15 @@ def normalize_logo(image: Image.Image) -> Image.Image:
         ) > 0
         exterior = edge_connected(~visible)
         icon.putalpha(Image.fromarray(np.where(exterior, 0, 255).astype("uint8")))
-    icon.thumbnail((320, 320), Image.Resampling.LANCZOS)
+    bbox = icon.getbbox()
+    if bbox:
+        icon = icon.crop(bbox)
+    aspect = icon.width / max(1, icon.height)
+    if aspect > 1.8:
+        max_w, max_h = 390, 340
+    else:
+        max_w, max_h = 330, 330
+    icon.thumbnail((max_w, max_h), Image.Resampling.LANCZOS)
     canvas = Image.new("RGBA", (400, 400), (0, 0, 0, 0))
     offset = ((400 - icon.width) // 2, (400 - icon.height) // 2)
     canvas.alpha_composite(icon, offset)

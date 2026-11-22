@@ -116,9 +116,23 @@
         <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" alt="PostgreSQL, MongoDB, SQLite, Redis"><br>
         <sub><code>PostgreSQL · MongoDB · SQLite · Redis</code></sub>
       </td>
-      <td valign="top"><code>╰─ 🛠️ devops_toolchain:</code><br><br>
+      <td valign="top"><code>├─ 🛠️ devops_toolchain:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash" alt="Git, GitHub, GitHub Actions, Linux, Bash"><br>
         <sub><code>Git · GitHub Actions · CI/CD · Linux CLI · Shell Scripting</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ 🧪 testing_qa_components:</code><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  /><br>
+        <sub><code>JavaScript · TypeScript · React · Jest Testing · Storybook UI Sandbox</code></sub>
       </td>
     </tr>
   </tbody>
@@ -131,20 +145,6 @@
 
 </div>
 
-<br>
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
 ---
 
 ## `$ git log --signals --all-branches`
@@ -153,12 +153,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="460" alt="Radar de habilidades de ingeniería">
+    <img src="assets/radar-dark.svg" width="420" alt="Radar de habilidades de ingeniería">
   </picture>&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-dark.svg" width="440" alt="Radar de lenguajes de programación">
+    <img src="assets/radar-langs-dark.svg" width="340" alt="Radar de lenguajes de programación">
   </picture>
 </p>
 
@@ -231,24 +231,11 @@
 
 ---
 
-## `$ play snake-animation`
-
-<div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## `$ cat system-stats.log`
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Luics415/Luics415/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Luics415/Luics415/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/Luics415">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luics415&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
   </a>
@@ -290,4 +277,10 @@
 
 <div align="center">
 <sub>⚡ Hecho con precisión técnica y arquitectura limpia desde Atizapán, México · @Luics415</sub>
+</div>
+
+<br/>
+
+<div data-importer="border" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />
 </div>
