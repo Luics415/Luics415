@@ -1,29 +1,28 @@
 {
-  "title": "Software Engineering Skill Radar",
-  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "title": "Engineering Skill Radar",
   "axes": [
     {
       "label": "Clean Architecture",
       "value": 92
     },
     {
-      "label": "Edge AI & Vision (MediaPipe)",
+      "label": "Edge AI & Vision",
       "value": 88
     },
     {
-      "label": "Backend & Distributed Systems",
+      "label": "Backend Systems",
       "value": 90
     },
     {
-      "label": "Modern Frontend (React/Next.js)",
+      "label": "Frontend (React/Next)",
       "value": 88
     },
     {
-      "label": "Mobile (Kotlin / Android)",
+      "label": "Mobile (Android)",
       "value": 85
     },
     {
-      "label": "Graphics (WebGL / Three.js)",
+      "label": "3D WebGL / Canvas",
       "value": 82
     }
   ]

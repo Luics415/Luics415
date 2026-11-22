@@ -25,13 +25,13 @@ LOGOS = Path(__file__).resolve().parent / "logos"
 W, H = 1180, 610
 INTRO_SECONDS = 3.2
 TRANSITION_SECONDS = 1.3
-LOGO_HOLD_SECONDS = 4.0
+LOGO_HOLD_SECONDS = 3.5
 TRAVELLER_COUNT = 900
 HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
 LOGO_SUFFIXES = {".png", ".webp"}
 LOGO_ALIASES: dict[str, str] = {}
-PREFERRED_LOGO_ORDER = ("linux", "anchor")
+PREFERRED_LOGO_ORDER = ("linux", "emblem", "signature")
 
 YAML_ROWS = [
     (0, "profile", ""),

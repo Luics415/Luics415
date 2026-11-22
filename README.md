@@ -1,3 +1,35 @@
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
+<div align="center">
+
+<!-- HERO TYPING ANIMATION -->
+<a href="https://luics415.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&height=70&lines=Luis+Enrique+Rivera+Delgado;Software+Engineer+%26+Backend+Architect;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Computer+Vision+%26+Edge+AI+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img data-importer="image" align="right" height="205" src="https://i.pinimg.com/originals/01/48/27/014827e6459bcdd4eb4ffe5c066481a5.gif" alt="Arcane Jinx GIF" />
+
+<p align="center">
+  <b>Construyendo arquitecturas limpias, interfaces cinematográficas e inteligencia artificial en el borde.</b>
+</p>
+
+<!-- STATUS PILLS / BADGES DINÁMICOS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_%26_Architecting-00f2fe?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Atizapán,_México-4facfe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-Ing._Desarrollo_Software-9b51e0?style=for-the-badge&logo=affinity&logoColor=white&labelColor=0d1117" alt="Education" />
+</p>
+
+<br clear="both"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <!-- LOCAL RETRO CITY-POP TERMINAL BANNER -->
@@ -31,9 +63,24 @@
 
 <br>
 
+<!-- PACMAN CONTRIBUTION GRAPH MOVED BETWEEN WHOAMI AND TECH-STACK -->
 <div align="center">
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+</div>
+
+<br>
+
+---
+
 ## `$ cat tech-stack.yaml`
+
+<div align="center">
 
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
@@ -106,12 +153,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="390" alt="Radar de habilidades de ingeniería">
-  </picture>&nbsp;
+    <img src="assets/radar-dark.svg" width="460" alt="Radar de habilidades de ingeniería">
+  </picture>&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de lenguajes de programación">
+    <img src="assets/radar-langs-dark.svg" width="440" alt="Radar de lenguajes de programación">
   </picture>
 </p>
 
@@ -184,20 +231,10 @@
 
 ---
 
-## `$ play arcade-contributions`
+## `$ play snake-animation`
 
 <div align="center">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luics415/Luics415/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-<br/><br/>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
-
+  <img data-importer="snake" src="https://raw.githubusercontent.com/Luics415/Luics415/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
